@@ -1,0 +1,4 @@
+Final automated test run
+Command: python -m pytest -q
+Result: 57 passed (52 previous tests + 5 competition-scope comparison/audit regression tests)
+The suite includes the prior 48 core regression tests and four supplemental evidence/RR tests, plus new scope-comparison logic, stable player-ID joins, duplicate/row-count checks, and excluded-competition delivery-coverage validation.

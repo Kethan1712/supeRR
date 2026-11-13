@@ -1,0 +1,142 @@
+{
+  "primary_scenario": "prior60_bat100_bowl60_matches10",
+  "scenarios": [
+    {
+      "scenario": "prior60_bat100_bowl60_matches10",
+      "role": "batters",
+      "candidate_count": 96,
+      "top10_player_names": "Najibullah Zadran | Sikandar Raza | Naman Dhir | Rinku Singh | Tristan Stubbs | Nurul Hasan | Rishabh Pant | Ramandeep Singh | Babar Azam | Glenn Phillips",
+      "top10_player_ids": "2533 | 2984 | 37052 | 4708 | 20702 | 2680 | 4703 | 20006 | 2485 | 4853"
+    },
+    {
+      "scenario": "prior60_bat100_bowl60_matches10",
+      "role": "bowlers",
+      "candidate_count": 156,
+      "top10_player_names": "Sunil Narine | Hasan Mahmud | Rashid Khan | Akeal Hosein | Dasun Shanaka | Riley Meredith | Adam Zampa | Nandre Burger | Ben Dwarshuis | Rahul Chahar",
+      "top10_player_ids": "781 | 6643 | 4722 | 2417 | 2436 | 5940 | 2636 | 7312 | 3641 | 6161"
+    },
+    {
+      "scenario": "prior30_bat100_bowl60_matches10",
+      "role": "batters",
+      "candidate_count": 96,
+      "top10_player_names": "Najibullah Zadran | Sikandar Raza | Naman Dhir | Rinku Singh | Tristan Stubbs | Nurul Hasan | Babar Azam | Rishabh Pant | Ramandeep Singh | Glenn Phillips",
+      "top10_player_ids": "2533 | 2984 | 37052 | 4708 | 20702 | 2680 | 2485 | 4703 | 20006 | 4853"
+    },
+    {
+      "scenario": "prior30_bat100_bowl60_matches10",
+      "role": "bowlers",
+      "candidate_count": 156,
+      "top10_player_names": "Sunil Narine | Hasan Mahmud | Akeal Hosein | Rashid Khan | Dasun Shanaka | Nandre Burger | Riley Meredith | Adam Zampa | Ben Dwarshuis | Sakib Hussain",
+      "top10_player_ids": "781 | 6643 | 2417 | 4722 | 2436 | 7312 | 5940 | 2636 | 3641 | 35318"
+    },
+    {
+      "scenario": "prior100_bat100_bowl60_matches10",
+      "role": "batters",
+      "candidate_count": 96,
+      "top10_player_names": "Najibullah Zadran | Sikandar Raza | Rinku Singh | Naman Dhir | Tristan Stubbs | Nurul Hasan | Rishabh Pant | Glenn Phillips | Ramandeep Singh | Liam Livingstone",
+      "top10_player_ids": "2533 | 2984 | 4708 | 37052 | 20702 | 2680 | 4703 | 4853 | 20006 | 4391"
+    },
+    {
+      "scenario": "prior100_bat100_bowl60_matches10",
+      "role": "bowlers",
+      "candidate_count": 156,
+      "top10_player_names": "Sunil Narine | Hasan Mahmud | Rashid Khan | Dasun Shanaka | Akeal Hosein | Riley Meredith | Adam Zampa | Nandre Burger | Ben Dwarshuis | Rasikh Salam",
+      "top10_player_ids": "781 | 6643 | 4722 | 2436 | 2417 | 5940 | 2636 | 7312 | 3641 | 7327"
+    },
+    {
+      "scenario": "prior60_bat80_bowl40_matches10",
+      "role": "batters",
+      "candidate_count": 110,
+      "top10_player_names": "Najibullah Zadran | Sikandar Raza | Naman Dhir | Rinku Singh | Tristan Stubbs | Nurul Hasan | Rishabh Pant | Ramandeep Singh | Babar Azam | Glenn Phillips",
+      "top10_player_ids": "2533 | 2984 | 37052 | 4708 | 20702 | 2680 | 4703 | 20006 | 2485 | 4853"
+    },
+    {
+      "scenario": "prior60_bat80_bowl40_matches10",
+      "role": "bowlers",
+      "candidate_count": 156,
+      "top10_player_names": "Sunil Narine | Hasan Mahmud | Rashid Khan | Akeal Hosein | Dasun Shanaka | Riley Meredith | Adam Zampa | Nandre Burger | Ben Dwarshuis | Rahul Chahar",
+      "top10_player_ids": "781 | 6643 | 4722 | 2417 | 2436 | 5940 | 2636 | 7312 | 3641 | 6161"
+    },
+    {
+      "scenario": "prior60_bat120_bowl80_matches10",
+      "role": "batters",
+      "candidate_count": 81,
+      "top10_player_names": "Najibullah Zadran | Sikandar Raza | Naman Dhir | Rinku Singh | Tristan Stubbs | Rishabh Pant | Glenn Phillips | Liam Livingstone | Aiden Markram | Marcus Stoinis",
+      "top10_player_ids": "2533 | 2984 | 37052 | 4708 | 20702 | 4703 | 4853 | 4391 | 3605 | 2639"
+    },
+    {
+      "scenario": "prior60_bat120_bowl80_matches10",
+      "role": "bowlers",
+      "candidate_count": 141,
+      "top10_player_names": "Sunil Narine | Hasan Mahmud | Rashid Khan | Akeal Hosein | Dasun Shanaka | Riley Meredith | Adam Zampa | Nandre Burger | Ben Dwarshuis | Rahul Chahar",
+      "top10_player_ids": "781 | 6643 | 4722 | 2417 | 2436 | 5940 | 2636 | 7312 | 3641 | 6161"
+    },
+    {
+      "scenario": "prior60_bat100_bowl60_matches8",
+      "role": "batters",
+      "candidate_count": 97,
+      "top10_player_names": "Najibullah Zadran | Sikandar Raza | Naman Dhir | Rinku Singh | Tristan Stubbs | Nurul Hasan | Rishabh Pant | Ramandeep Singh | Babar Azam | Glenn Phillips",
+      "top10_player_ids": "2533 | 2984 | 37052 | 4708 | 20702 | 2680 | 4703 | 20006 | 2485 | 4853"
+    },
+    {
+      "scenario": "prior60_bat100_bowl60_matches8",
+      "role": "bowlers",
+      "candidate_count": 173,
+      "top10_player_names": "Kane Richardson | Sunil Narine | Ehsan Khan | Hasan Mahmud | Rashid Khan | Akeal Hosein | Dwayne Bravo | Dasun Shanaka | Riley Meredith | Adam Zampa",
+      "top10_player_ids": "286 | 781 | 5750 | 6643 | 4722 | 2417 | 161 | 2436 | 5940 | 2636"
+    }
+  ],
+  "top10_membership_overlap": [
+    {
+      "scenario": "prior30_bat100_bowl60_matches10",
+      "role": "batters",
+      "top10_overlap_with_primary": 10
+    },
+    {
+      "scenario": "prior30_bat100_bowl60_matches10",
+      "role": "bowlers",
+      "top10_overlap_with_primary": 9
+    },
+    {
+      "scenario": "prior100_bat100_bowl60_matches10",
+      "role": "batters",
+      "top10_overlap_with_primary": 9
+    },
+    {
+      "scenario": "prior100_bat100_bowl60_matches10",
+      "role": "bowlers",
+      "top10_overlap_with_primary": 9
+    },
+    {
+      "scenario": "prior60_bat80_bowl40_matches10",
+      "role": "batters",
+      "top10_overlap_with_primary": 10
+    },
+    {
+      "scenario": "prior60_bat80_bowl40_matches10",
+      "role": "bowlers",
+      "top10_overlap_with_primary": 10
+    },
+    {
+      "scenario": "prior60_bat120_bowl80_matches10",
+      "role": "batters",
+      "top10_overlap_with_primary": 7
+    },
+    {
+      "scenario": "prior60_bat120_bowl80_matches10",
+      "role": "bowlers",
+      "top10_overlap_with_primary": 10
+    },
+    {
+      "scenario": "prior60_bat100_bowl60_matches8",
+      "role": "batters",
+      "top10_overlap_with_primary": 10
+    },
+    {
+      "scenario": "prior60_bat100_bowl60_matches8",
+      "role": "bowlers",
+      "top10_overlap_with_primary": 7
+    }
+  ],
+  "interpretation": "Top-10 overlap counts shared players versus the primary score. Rankings should be described as more stable when overlap remains high across prior and eligibility alternatives."
+}

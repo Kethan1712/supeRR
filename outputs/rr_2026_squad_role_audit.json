@@ -1,0 +1,13 @@
+{
+  "season": "IPL 2026",
+  "team": "Rajasthan Royals",
+  "competition_id": 3298,
+  "team_id": 3,
+  "mapped_squad_players": 27,
+  "team_matches_in_matches_csv": 16,
+  "matches_with_played_xi": 16,
+  "phase_definition": "Powerplay = first 30% of allocated overs; death = final 25%; middle = intervening overs, same proportional boundaries as the primary model.",
+  "bowling_ball_definition": "Candidate legal balls exclude wide and Overstep rows; the count is not claimed to be scorecard-certified.",
+  "bowling_wicket_definition": "Bowled, Caught, LBW, Stump and Hit Wicket only; run-outs and other non-bowler dismissals excluded.",
+  "interpretation": "Retrospective 2026 role-use audit only. It does not predict 2027 retentions, releases, injury status, or auction availability."
+}

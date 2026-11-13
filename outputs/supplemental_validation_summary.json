@@ -1,0 +1,14 @@
+{
+  "batter_profiles": 10,
+  "bowler_profiles": 10,
+  "rr_role_depth_rows": 7,
+  "batter_match_spotlights": 10,
+  "bowler_match_spotlights": 10,
+  "boundary_flag_suspect_records": 23,
+  "boundary_deletion_sensitivity": {
+    "batters_top10_overlap": 10,
+    "bowlers_top10_overlap": 10,
+    "batters_rank_order_unchanged": true,
+    "bowlers_rank_order_unchanged": true
+  }
+}

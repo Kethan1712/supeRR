@@ -1,0 +1,139 @@
+{
+  "batters": {
+    "rows": 10,
+    "unique_players": 10,
+    "ranks_1_to_10": true,
+    "scores_descending": true,
+    "all_baselines_at_least_80pct": true,
+    "names": [
+      "Najibullah Zadran",
+      "Sikandar Raza",
+      "Naman Dhir",
+      "Rinku Singh",
+      "Tristan Stubbs",
+      "Nurul Hasan",
+      "Rishabh Pant",
+      "Ramandeep Singh",
+      "Babar Azam",
+      "Glenn Phillips"
+    ],
+    "minimum_pressure_metric_baseline_coverage_pct": 100.0,
+    "minimum_ordinary_metric_baseline_coverage_pct": 100.0
+  },
+  "bowlers": {
+    "rows": 10,
+    "unique_players": 10,
+    "ranks_1_to_10": true,
+    "scores_descending": true,
+    "all_baselines_at_least_80pct": true,
+    "names": [
+      "Sunil Narine",
+      "Hasan Mahmud",
+      "Rashid Khan",
+      "Akeal Hosein",
+      "Dasun Shanaka",
+      "Riley Meredith",
+      "Adam Zampa",
+      "Nandre Burger",
+      "Ben Dwarshuis",
+      "Rahul Chahar"
+    ],
+    "minimum_pressure_metric_baseline_coverage_pct": 100.0,
+    "minimum_ordinary_metric_baseline_coverage_pct": 100.0
+  },
+  "rr_fit_review": {
+    "rows": 20,
+    "unique_players": 20,
+    "roles": {
+      "Batter": 10,
+      "Bowler": 10
+    }
+  },
+  "scope": {
+    "matches": 853,
+    "matches_with_ball_by_ball": 837,
+    "deliveries": 194014,
+    "excluded_match_rows": 30
+  },
+  "pressure": {
+    "early_collapse_records": 11096,
+    "death_records": 43600,
+    "overlap_records": 3822,
+    "unique_combined_records": 50874
+  },
+  "alternative_allocation_inheritance": {
+    "inherit_missing_second_innings_revision": false,
+    "batting_top10_overlap": 10,
+    "bowling_top10_overlap": 10,
+    "batting_names_unchanged_in_rank_order": true,
+    "bowling_names_unchanged_in_rank_order": true
+  },
+  "eligible_candidates": {
+    "batting": 96,
+    "bowling": 156
+  },
+  "test_result": "57 passed (52 previous tests + 5 competition-scope comparison/audit regression tests; pytest -q)",
+  "report_pages": 22,
+  "supplemental": {
+    "batter_evidence_profiles": 10,
+    "bowler_evidence_profiles": 10,
+    "batter_match_spotlights": 10,
+    "bowler_match_spotlights": 10,
+    "rr_role_depth_matrix_rows": 7,
+    "missing_boundary_flag_records": 23,
+    "boundary_deletion_test": {
+      "batters_top10_overlap": 10,
+      "batters_rank_order_unchanged": true,
+      "bowlers_top10_overlap": 10,
+      "bowlers_rank_order_unchanged": true
+    }
+  },
+  "scope_comparison": {
+    "additional_competitions": [
+      {
+        "comp_id": 2670,
+        "comp_name": "Mens T20 Emerging Teams Asia Cup 2024",
+        "match_format": "T20",
+        "season": "2024",
+        "match_rows": 15,
+        "matches_with_ball_by_ball": 15,
+        "matches_without_ball_by_ball": 0
+      },
+      {
+        "comp_id": 3289,
+        "comp_name": "Asia Cup Rising Stars 2025",
+        "match_format": "T20",
+        "season": "2025",
+        "match_rows": 15,
+        "matches_with_ball_by_ball": 15,
+        "matches_without_ball_by_ball": 0
+      }
+    ],
+    "additional_match_rows": 30,
+    "additional_delivery_rows": 6985,
+    "expanded_scope": {
+      "competition_ids": 138,
+      "matches": 883,
+      "matches_with_ball_by_ball": 867,
+      "matches_without_ball_by_ball": 16,
+      "ball_by_ball_rows": 200999
+    },
+    "batters_top10_overlap": "9/10",
+    "batter_entered": [
+      "Liam Livingstone"
+    ],
+    "batter_left": [
+      "Ramandeep Singh"
+    ],
+    "bowlers_top10_overlap": "8/10",
+    "bowlers_entered": [
+      "Ehsan Khan",
+      "Rasikh Salam"
+    ],
+    "bowlers_left": [
+      "Ben Dwarshuis",
+      "Rahul Chahar"
+    ],
+    "primary_rankings_overwritten": false
+  }
+}

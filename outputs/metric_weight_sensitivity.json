@@ -1,0 +1,957 @@
+{
+  "scenario_definitions": {
+    "primary": {
+      "batter_weights": {
+        "recorded_runs_per_100_balls": 0.5,
+        "dismissals_per_100_balls": 0.3,
+        "boundaries_per_100_balls": 0.2
+      },
+      "bowler_weights": {
+        "bowler_wickets_per_100_candidate_legal_balls": 0.6,
+        "flagged_boundaries_per_100_candidate_legal_balls": 0.4
+      },
+      "performance_weight": 0.7,
+      "batter_top10": [
+        {
+          "rank": 1,
+          "player_id": 2533,
+          "player_name": "Najibullah Zadran",
+          "reliability_score": 87.62447916666666
+        },
+        {
+          "rank": 2,
+          "player_id": 2984,
+          "player_name": "Sikandar Raza",
+          "reliability_score": 85.090625
+        },
+        {
+          "rank": 3,
+          "player_id": 37052,
+          "player_name": "Naman Dhir",
+          "reliability_score": 82.68854166666665
+        },
+        {
+          "rank": 4,
+          "player_id": 4708,
+          "player_name": "Rinku Singh",
+          "reliability_score": 81.70625
+        },
+        {
+          "rank": 5,
+          "player_id": 20702,
+          "player_name": "Tristan Stubbs",
+          "reliability_score": 80.78593749999999
+        },
+        {
+          "rank": 6,
+          "player_id": 2680,
+          "player_name": "Nurul Hasan",
+          "reliability_score": 78.34739583333334
+        },
+        {
+          "rank": 7,
+          "player_id": 4703,
+          "player_name": "Rishabh Pant",
+          "reliability_score": 76.30833333333334
+        },
+        {
+          "rank": 8,
+          "player_id": 20006,
+          "player_name": "Ramandeep Singh",
+          "reliability_score": 75.18697916666666
+        },
+        {
+          "rank": 9,
+          "player_id": 2485,
+          "player_name": "Babar Azam",
+          "reliability_score": 74.92552083333334
+        },
+        {
+          "rank": 10,
+          "player_id": 4853,
+          "player_name": "Glenn Phillips",
+          "reliability_score": 74.67291666666665
+        }
+      ],
+      "bowler_top10": [
+        {
+          "rank": 1,
+          "player_id": 781,
+          "player_name": "Sunil Narine",
+          "reliability_score": 85.96794871794872
+        },
+        {
+          "rank": 2,
+          "player_id": 6643,
+          "player_name": "Hasan Mahmud",
+          "reliability_score": 83.81794871794871
+        },
+        {
+          "rank": 3,
+          "player_id": 4722,
+          "player_name": "Rashid Khan",
+          "reliability_score": 82.53717948717947
+        },
+        {
+          "rank": 4,
+          "player_id": 2417,
+          "player_name": "Akeal Hosein",
+          "reliability_score": 80.97564102564102
+        },
+        {
+          "rank": 5,
+          "player_id": 2436,
+          "player_name": "Dasun Shanaka",
+          "reliability_score": 80.28525641025641
+        },
+        {
+          "rank": 6,
+          "player_id": 5940,
+          "player_name": "Riley Meredith",
+          "reliability_score": 79.43397435897435
+        },
+        {
+          "rank": 7,
+          "player_id": 2636,
+          "player_name": "Adam Zampa",
+          "reliability_score": 79.16410256410256
+        },
+        {
+          "rank": 8,
+          "player_id": 7312,
+          "player_name": "Nandre Burger",
+          "reliability_score": 78.76346153846154
+        },
+        {
+          "rank": 9,
+          "player_id": 3641,
+          "player_name": "Ben Dwarshuis",
+          "reliability_score": 77.6
+        },
+        {
+          "rank": 10,
+          "player_id": 6161,
+          "player_name": "Rahul Chahar",
+          "reliability_score": 76.66923076923077
+        }
+      ]
+    },
+    "equal_metrics": {
+      "batter_weights": {
+        "recorded_runs_per_100_balls": 0.3333333333333333,
+        "dismissals_per_100_balls": 0.3333333333333333,
+        "boundaries_per_100_balls": 0.3333333333333333
+      },
+      "bowler_weights": {
+        "bowler_wickets_per_100_candidate_legal_balls": 0.5,
+        "flagged_boundaries_per_100_candidate_legal_balls": 0.5
+      },
+      "performance_weight": 0.7,
+      "batter_top10": [
+        {
+          "rank": 1,
+          "player_id": 2533,
+          "player_name": "Najibullah Zadran",
+          "reliability_score": 87.26388888888889
+        },
+        {
+          "rank": 2,
+          "player_id": 2984,
+          "player_name": "Sikandar Raza",
+          "reliability_score": 83.66319444444444
+        },
+        {
+          "rank": 3,
+          "player_id": 37052,
+          "player_name": "Naman Dhir",
+          "reliability_score": 82.8125
+        },
+        {
+          "rank": 4,
+          "player_id": 4708,
+          "player_name": "Rinku Singh",
+          "reliability_score": 82.25173611111111
+        },
+        {
+          "rank": 5,
+          "player_id": 20702,
+          "player_name": "Tristan Stubbs",
+          "reliability_score": 79.5954861111111
+        },
+        {
+          "rank": 6,
+          "player_id": 2680,
+          "player_name": "Nurul Hasan",
+          "reliability_score": 77.65277777777777
+        },
+        {
+          "rank": 7,
+          "player_id": 4703,
+          "player_name": "Rishabh Pant",
+          "reliability_score": 76.06597222222223
+        },
+        {
+          "rank": 8,
+          "player_id": 2485,
+          "player_name": "Babar Azam",
+          "reliability_score": 74.92708333333334
+        },
+        {
+          "rank": 9,
+          "player_id": 20006,
+          "player_name": "Ramandeep Singh",
+          "reliability_score": 74.39236111111111
+        },
+        {
+          "rank": 10,
+          "player_id": 4853,
+          "player_name": "Glenn Phillips",
+          "reliability_score": 73.58333333333333
+        }
+      ],
+      "bowler_top10": [
+        {
+          "rank": 1,
+          "player_id": 781,
+          "player_name": "Sunil Narine",
+          "reliability_score": 86.82852564102564
+        },
+        {
+          "rank": 2,
+          "player_id": 6643,
+          "player_name": "Hasan Mahmud",
+          "reliability_score": 83.11858974358974
+        },
+        {
+          "rank": 3,
+          "player_id": 4722,
+          "player_name": "Rashid Khan",
+          "reliability_score": 80.27083333333333
+        },
+        {
+          "rank": 4,
+          "player_id": 2417,
+          "player_name": "Akeal Hosein",
+          "reliability_score": 79.6826923076923
+        },
+        {
+          "rank": 5,
+          "player_id": 2436,
+          "player_name": "Dasun Shanaka",
+          "reliability_score": 78.98878205128204
+        },
+        {
+          "rank": 6,
+          "player_id": 7327,
+          "player_name": "Rasikh Salam",
+          "reliability_score": 78.57371794871796
+        },
+        {
+          "rank": 7,
+          "player_id": 35318,
+          "player_name": "Sakib Hussain",
+          "reliability_score": 78.3701923076923
+        },
+        {
+          "rank": 8,
+          "player_id": 6354,
+          "player_name": "Spencer Johnson",
+          "reliability_score": 77.84935897435898
+        },
+        {
+          "rank": 9,
+          "player_id": 7312,
+          "player_name": "Nandre Burger",
+          "reliability_score": 77.58814102564102
+        },
+        {
+          "rank": 10,
+          "player_id": 6161,
+          "player_name": "Rahul Chahar",
+          "reliability_score": 76.83173076923077
+        }
+      ]
+    },
+    "runs_and_wickets_emphasis": {
+      "batter_weights": {
+        "recorded_runs_per_100_balls": 0.6,
+        "dismissals_per_100_balls": 0.25,
+        "boundaries_per_100_balls": 0.15
+      },
+      "bowler_weights": {
+        "bowler_wickets_per_100_candidate_legal_balls": 0.75,
+        "flagged_boundaries_per_100_candidate_legal_balls": 0.25
+      },
+      "performance_weight": 0.7,
+      "batter_top10": [
+        {
+          "rank": 1,
+          "player_id": 2533,
+          "player_name": "Najibullah Zadran",
+          "reliability_score": 88.24739583333333
+        },
+        {
+          "rank": 2,
+          "player_id": 2984,
+          "player_name": "Sikandar Raza",
+          "reliability_score": 86.37942708333333
+        },
+        {
+          "rank": 3,
+          "player_id": 37052,
+          "player_name": "Naman Dhir",
+          "reliability_score": 83.06901041666666
+        },
+        {
+          "rank": 4,
+          "player_id": 4708,
+          "player_name": "Rinku Singh",
+          "reliability_score": 81.78567708333333
+        },
+        {
+          "rank": 5,
+          "player_id": 20702,
+          "player_name": "Tristan Stubbs",
+          "reliability_score": 81.35677083333334
+        },
+        {
+          "rank": 6,
+          "player_id": 2680,
+          "player_name": "Nurul Hasan",
+          "reliability_score": 77.72369791666667
+        },
+        {
+          "rank": 7,
+          "player_id": 4703,
+          "player_name": "Rishabh Pant",
+          "reliability_score": 76.9171875
+        },
+        {
+          "rank": 8,
+          "player_id": 20006,
+          "player_name": "Ramandeep Singh",
+          "reliability_score": 76.05390625
+        },
+        {
+          "rank": 9,
+          "player_id": 4853,
+          "player_name": "Glenn Phillips",
+          "reliability_score": 76.04635416666666
+        },
+        {
+          "rank": 10,
+          "player_id": 4391,
+          "player_name": "Liam Livingstone",
+          "reliability_score": 75.90182291666666
+        }
+      ],
+      "bowler_top10": [
+        {
+          "rank": 1,
+          "player_id": 4722,
+          "player_name": "Rashid Khan",
+          "reliability_score": 85.9366987179487
+        },
+        {
+          "rank": 2,
+          "player_id": 5940,
+          "player_name": "Riley Meredith",
+          "reliability_score": 85.4238782051282
+        },
+        {
+          "rank": 3,
+          "player_id": 6643,
+          "player_name": "Hasan Mahmud",
+          "reliability_score": 84.86698717948717
+        },
+        {
+          "rank": 4,
+          "player_id": 781,
+          "player_name": "Sunil Narine",
+          "reliability_score": 84.67708333333331
+        },
+        {
+          "rank": 5,
+          "player_id": 2417,
+          "player_name": "Akeal Hosein",
+          "reliability_score": 82.9150641025641
+        },
+        {
+          "rank": 6,
+          "player_id": 2636,
+          "player_name": "Adam Zampa",
+          "reliability_score": 82.87660256410255
+        },
+        {
+          "rank": 7,
+          "player_id": 3641,
+          "player_name": "Ben Dwarshuis",
+          "reliability_score": 82.25
+        },
+        {
+          "rank": 8,
+          "player_id": 2436,
+          "player_name": "Dasun Shanaka",
+          "reliability_score": 82.22996794871796
+        },
+        {
+          "rank": 9,
+          "player_id": 7312,
+          "player_name": "Nandre Burger",
+          "reliability_score": 80.5264423076923
+        },
+        {
+          "rank": 10,
+          "player_id": 829,
+          "player_name": "Mitchell Starc",
+          "reliability_score": 79.12499999999999
+        }
+      ]
+    },
+    "survival_and_boundary_control": {
+      "batter_weights": {
+        "recorded_runs_per_100_balls": 0.45,
+        "dismissals_per_100_balls": 0.4,
+        "boundaries_per_100_balls": 0.15
+      },
+      "bowler_weights": {
+        "bowler_wickets_per_100_candidate_legal_balls": 0.5,
+        "flagged_boundaries_per_100_candidate_legal_balls": 0.5
+      },
+      "performance_weight": 0.7,
+      "batter_top10": [
+        {
+          "rank": 1,
+          "player_id": 2533,
+          "player_name": "Najibullah Zadran",
+          "reliability_score": 86.29661458333334
+        },
+        {
+          "rank": 2,
+          "player_id": 2984,
+          "player_name": "Sikandar Raza",
+          "reliability_score": 83.36536458333335
+        },
+        {
+          "rank": 3,
+          "player_id": 37052,
+          "player_name": "Naman Dhir",
+          "reliability_score": 81.36119791666667
+        },
+        {
+          "rank": 4,
+          "player_id": 2680,
+          "player_name": "Nurul Hasan",
+          "reliability_score": 81.26041666666667
+        },
+        {
+          "rank": 5,
+          "player_id": 20702,
+          "player_name": "Tristan Stubbs",
+          "reliability_score": 80.85911458333334
+        },
+        {
+          "rank": 6,
+          "player_id": 4708,
+          "player_name": "Rinku Singh",
+          "reliability_score": 80.64973958333334
+        },
+        {
+          "rank": 7,
+          "player_id": 796,
+          "player_name": "Matthew Wade",
+          "reliability_score": 75.19921875
+        },
+        {
+          "rank": 8,
+          "player_id": 4703,
+          "player_name": "Rishabh Pant",
+          "reliability_score": 74.8453125
+        },
+        {
+          "rank": 9,
+          "player_id": 20006,
+          "player_name": "Ramandeep Singh",
+          "reliability_score": 73.778125
+        },
+        {
+          "rank": 10,
+          "player_id": 2485,
+          "player_name": "Babar Azam",
+          "reliability_score": 73.28020833333335
+        }
+      ],
+      "bowler_top10": [
+        {
+          "rank": 1,
+          "player_id": 781,
+          "player_name": "Sunil Narine",
+          "reliability_score": 86.82852564102564
+        },
+        {
+          "rank": 2,
+          "player_id": 6643,
+          "player_name": "Hasan Mahmud",
+          "reliability_score": 83.11858974358974
+        },
+        {
+          "rank": 3,
+          "player_id": 4722,
+          "player_name": "Rashid Khan",
+          "reliability_score": 80.27083333333333
+        },
+        {
+          "rank": 4,
+          "player_id": 2417,
+          "player_name": "Akeal Hosein",
+          "reliability_score": 79.6826923076923
+        },
+        {
+          "rank": 5,
+          "player_id": 2436,
+          "player_name": "Dasun Shanaka",
+          "reliability_score": 78.98878205128204
+        },
+        {
+          "rank": 6,
+          "player_id": 7327,
+          "player_name": "Rasikh Salam",
+          "reliability_score": 78.57371794871796
+        },
+        {
+          "rank": 7,
+          "player_id": 35318,
+          "player_name": "Sakib Hussain",
+          "reliability_score": 78.3701923076923
+        },
+        {
+          "rank": 8,
+          "player_id": 6354,
+          "player_name": "Spencer Johnson",
+          "reliability_score": 77.84935897435898
+        },
+        {
+          "rank": 9,
+          "player_id": 7312,
+          "player_name": "Nandre Burger",
+          "reliability_score": 77.58814102564102
+        },
+        {
+          "rank": 10,
+          "player_id": 6161,
+          "player_name": "Rahul Chahar",
+          "reliability_score": 76.83173076923077
+        }
+      ]
+    },
+    "boundary_emphasis": {
+      "batter_weights": {
+        "recorded_runs_per_100_balls": 0.45,
+        "dismissals_per_100_balls": 0.25,
+        "boundaries_per_100_balls": 0.3
+      },
+      "bowler_weights": {
+        "bowler_wickets_per_100_candidate_legal_balls": 0.7,
+        "flagged_boundaries_per_100_candidate_legal_balls": 0.3
+      },
+      "performance_weight": 0.7,
+      "batter_top10": [
+        {
+          "rank": 1,
+          "player_id": 2533,
+          "player_name": "Najibullah Zadran",
+          "reliability_score": 88.32942708333333
+        },
+        {
+          "rank": 2,
+          "player_id": 2984,
+          "player_name": "Sikandar Raza",
+          "reliability_score": 85.52708333333335
+        },
+        {
+          "rank": 3,
+          "player_id": 37052,
+          "player_name": "Naman Dhir",
+          "reliability_score": 83.63541666666667
+        },
+        {
+          "rank": 4,
+          "player_id": 4708,
+          "player_name": "Rinku Singh",
+          "reliability_score": 82.68333333333334
+        },
+        {
+          "rank": 5,
+          "player_id": 20702,
+          "player_name": "Tristan Stubbs",
+          "reliability_score": 80.14192708333334
+        },
+        {
+          "rank": 6,
+          "player_id": 4703,
+          "player_name": "Rishabh Pant",
+          "reliability_score": 77.1625
+        },
+        {
+          "rank": 7,
+          "player_id": 2680,
+          "player_name": "Nurul Hasan",
+          "reliability_score": 76.05807291666666
+        },
+        {
+          "rank": 8,
+          "player_id": 2485,
+          "player_name": "Babar Azam",
+          "reliability_score": 76.02317708333334
+        },
+        {
+          "rank": 9,
+          "player_id": 4853,
+          "player_name": "Glenn Phillips",
+          "reliability_score": 75.78541666666666
+        },
+        {
+          "rank": 10,
+          "player_id": 20006,
+          "player_name": "Ramandeep Singh",
+          "reliability_score": 75.72890625000001
+        }
+      ],
+      "bowler_top10": [
+        {
+          "rank": 1,
+          "player_id": 781,
+          "player_name": "Sunil Narine",
+          "reliability_score": 85.1073717948718
+        },
+        {
+          "rank": 2,
+          "player_id": 4722,
+          "player_name": "Rashid Khan",
+          "reliability_score": 84.80352564102563
+        },
+        {
+          "rank": 3,
+          "player_id": 6643,
+          "player_name": "Hasan Mahmud",
+          "reliability_score": 84.51730769230768
+        },
+        {
+          "rank": 4,
+          "player_id": 5940,
+          "player_name": "Riley Meredith",
+          "reliability_score": 83.4272435897436
+        },
+        {
+          "rank": 5,
+          "player_id": 2417,
+          "player_name": "Akeal Hosein",
+          "reliability_score": 82.26858974358974
+        },
+        {
+          "rank": 6,
+          "player_id": 2636,
+          "player_name": "Adam Zampa",
+          "reliability_score": 81.63910256410256
+        },
+        {
+          "rank": 7,
+          "player_id": 2436,
+          "player_name": "Dasun Shanaka",
+          "reliability_score": 81.58173076923077
+        },
+        {
+          "rank": 8,
+          "player_id": 3641,
+          "player_name": "Ben Dwarshuis",
+          "reliability_score": 80.69999999999999
+        },
+        {
+          "rank": 9,
+          "player_id": 7312,
+          "player_name": "Nandre Burger",
+          "reliability_score": 79.93878205128205
+        },
+        {
+          "rank": 10,
+          "player_id": 829,
+          "player_name": "Mitchell Starc",
+          "reliability_score": 77.79679487179487
+        }
+      ]
+    },
+    "consistency_heavier": {
+      "batter_weights": {
+        "recorded_runs_per_100_balls": 0.5,
+        "dismissals_per_100_balls": 0.3,
+        "boundaries_per_100_balls": 0.2
+      },
+      "bowler_weights": {
+        "bowler_wickets_per_100_candidate_legal_balls": 0.6,
+        "flagged_boundaries_per_100_candidate_legal_balls": 0.4
+      },
+      "performance_weight": 0.6,
+      "batter_top10": [
+        {
+          "rank": 1,
+          "player_id": 2533,
+          "player_name": "Najibullah Zadran",
+          "reliability_score": 86.48541666666665
+        },
+        {
+          "rank": 2,
+          "player_id": 2984,
+          "player_name": "Sikandar Raza",
+          "reliability_score": 82.725
+        },
+        {
+          "rank": 3,
+          "player_id": 37052,
+          "player_name": "Naman Dhir",
+          "reliability_score": 81.31041666666665
+        },
+        {
+          "rank": 4,
+          "player_id": 4708,
+          "player_name": "Rinku Singh",
+          "reliability_score": 80.24375
+        },
+        {
+          "rank": 5,
+          "player_id": 20702,
+          "player_name": "Tristan Stubbs",
+          "reliability_score": 79.5375
+        },
+        {
+          "rank": 6,
+          "player_id": 2680,
+          "player_name": "Nurul Hasan",
+          "reliability_score": 79.44583333333333
+        },
+        {
+          "rank": 7,
+          "player_id": 4703,
+          "player_name": "Rishabh Pant",
+          "reliability_score": 75.99791666666667
+        },
+        {
+          "rank": 8,
+          "player_id": 20006,
+          "player_name": "Ramandeep Singh",
+          "reliability_score": 75.68333333333334
+        },
+        {
+          "rank": 9,
+          "player_id": 2485,
+          "player_name": "Babar Azam",
+          "reliability_score": 75.66458333333334
+        },
+        {
+          "rank": 10,
+          "player_id": 4853,
+          "player_name": "Glenn Phillips",
+          "reliability_score": 73.01875
+        }
+      ],
+      "bowler_top10": [
+        {
+          "rank": 1,
+          "player_id": 781,
+          "player_name": "Sunil Narine",
+          "reliability_score": 85.82051282051282
+        },
+        {
+          "rank": 2,
+          "player_id": 6643,
+          "player_name": "Hasan Mahmud",
+          "reliability_score": 83.08205128205128
+        },
+        {
+          "rank": 3,
+          "player_id": 4722,
+          "player_name": "Rashid Khan",
+          "reliability_score": 81.95128205128204
+        },
+        {
+          "rank": 4,
+          "player_id": 2417,
+          "player_name": "Akeal Hosein",
+          "reliability_score": 80.95897435897436
+        },
+        {
+          "rank": 5,
+          "player_id": 7312,
+          "player_name": "Nandre Burger",
+          "reliability_score": 79.18461538461538
+        },
+        {
+          "rank": 6,
+          "player_id": 2636,
+          "player_name": "Adam Zampa",
+          "reliability_score": 78.73589743589744
+        },
+        {
+          "rank": 7,
+          "player_id": 2436,
+          "player_name": "Dasun Shanaka",
+          "reliability_score": 78.11538461538461
+        },
+        {
+          "rank": 8,
+          "player_id": 5940,
+          "player_name": "Riley Meredith",
+          "reliability_score": 78.04871794871795
+        },
+        {
+          "rank": 9,
+          "player_id": 3641,
+          "player_name": "Ben Dwarshuis",
+          "reliability_score": 76.22307692307692
+        },
+        {
+          "rank": 10,
+          "player_id": 7327,
+          "player_name": "Rasikh Salam",
+          "reliability_score": 76.08974358974359
+        }
+      ]
+    },
+    "performance_heavier": {
+      "batter_weights": {
+        "recorded_runs_per_100_balls": 0.5,
+        "dismissals_per_100_balls": 0.3,
+        "boundaries_per_100_balls": 0.2
+      },
+      "bowler_weights": {
+        "bowler_wickets_per_100_candidate_legal_balls": 0.6,
+        "flagged_boundaries_per_100_candidate_legal_balls": 0.4
+      },
+      "performance_weight": 0.8,
+      "batter_top10": [
+        {
+          "rank": 1,
+          "player_id": 2533,
+          "player_name": "Najibullah Zadran",
+          "reliability_score": 88.76354166666665
+        },
+        {
+          "rank": 2,
+          "player_id": 2984,
+          "player_name": "Sikandar Raza",
+          "reliability_score": 87.45625
+        },
+        {
+          "rank": 3,
+          "player_id": 37052,
+          "player_name": "Naman Dhir",
+          "reliability_score": 84.06666666666666
+        },
+        {
+          "rank": 4,
+          "player_id": 4708,
+          "player_name": "Rinku Singh",
+          "reliability_score": 83.16875
+        },
+        {
+          "rank": 5,
+          "player_id": 20702,
+          "player_name": "Tristan Stubbs",
+          "reliability_score": 82.034375
+        },
+        {
+          "rank": 6,
+          "player_id": 2680,
+          "player_name": "Nurul Hasan",
+          "reliability_score": 77.24895833333333
+        },
+        {
+          "rank": 7,
+          "player_id": 4703,
+          "player_name": "Rishabh Pant",
+          "reliability_score": 76.61875
+        },
+        {
+          "rank": 8,
+          "player_id": 4853,
+          "player_name": "Glenn Phillips",
+          "reliability_score": 76.32708333333332
+        },
+        {
+          "rank": 9,
+          "player_id": 20006,
+          "player_name": "Ramandeep Singh",
+          "reliability_score": 74.690625
+        },
+        {
+          "rank": 10,
+          "player_id": 2485,
+          "player_name": "Babar Azam",
+          "reliability_score": 74.18645833333335
+        }
+      ],
+      "bowler_top10": [
+        {
+          "rank": 1,
+          "player_id": 781,
+          "player_name": "Sunil Narine",
+          "reliability_score": 86.11538461538461
+        },
+        {
+          "rank": 2,
+          "player_id": 6643,
+          "player_name": "Hasan Mahmud",
+          "reliability_score": 84.55384615384614
+        },
+        {
+          "rank": 3,
+          "player_id": 4722,
+          "player_name": "Rashid Khan",
+          "reliability_score": 83.12307692307691
+        },
+        {
+          "rank": 4,
+          "player_id": 2436,
+          "player_name": "Dasun Shanaka",
+          "reliability_score": 82.4551282051282
+        },
+        {
+          "rank": 5,
+          "player_id": 2417,
+          "player_name": "Akeal Hosein",
+          "reliability_score": 80.99230769230769
+        },
+        {
+          "rank": 6,
+          "player_id": 5940,
+          "player_name": "Riley Meredith",
+          "reliability_score": 80.81923076923077
+        },
+        {
+          "rank": 7,
+          "player_id": 2636,
+          "player_name": "Adam Zampa",
+          "reliability_score": 79.59230769230768
+        },
+        {
+          "rank": 8,
+          "player_id": 6161,
+          "player_name": "Rahul Chahar",
+          "reliability_score": 79.12564102564102
+        },
+        {
+          "rank": 9,
+          "player_id": 3641,
+          "player_name": "Ben Dwarshuis",
+          "reliability_score": 78.97692307692307
+        },
+        {
+          "rank": 10,
+          "player_id": 35318,
+          "player_name": "Sakib Hussain",
+          "reliability_score": 78.47948717948718
+        }
+      ]
+    }
+  },
+  "interpretation": "Overlap is a stability diagnostic, not proof that any weight set is correct. Primary weights are modelling choices; rank lists should be read with this sensitivity in mind."
+}

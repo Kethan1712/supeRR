@@ -1,0 +1,34 @@
+{
+  "pressure_definition": {
+    "early_collapse": "5+ wickets lost by the end of the first 50% of allocated innings; flag starts on the next delivery",
+    "death_phase": "final 25% of allocated innings, rounded to full overs (overs 16-20 for 20 overs)",
+    "additional_innings": "retained but not pressure-classified"
+  },
+  "delivery_records_total": 194014,
+  "regular_innings_delivery_records": 193988,
+  "additional_innings_delivery_records": 26,
+  "early_collapse_pressure_records": 11096,
+  "death_phase_pressure_records": 43600,
+  "overlapping_pressure_records": 3822,
+  "combined_pressure_records_without_double_counting": 50874,
+  "early_collapse_innings": 175,
+  "matches_with_early_collapse": 173,
+  "matches_with_death_phase_pressure": 819,
+  "pressure_category_record_counts": {
+    "ordinary": 143114,
+    "death_over": 39778,
+    "early_collapse": 7274,
+    "early_collapse_and_death_over": 3822
+  },
+  "allocation_source_record_counts": {
+    "standard_20_over_default": 190584,
+    "revised_field_interpreted_as_balls": 3270,
+    "inherited_first_innings_revised_allocation": 134
+  },
+  "revised_allocation_encoding_check": {
+    "non_null_first_innings_revised_values": 2684,
+    "non_null_second_innings_revised_values": 3795,
+    "all_used_revised_values_are_multiples_of_six": true,
+    "interpretation_note": "Revised fields are interpreted as ball allowances because all non-null supplied values are multiples of six. The source schema does not explicitly document units; inherited second-innings allocations are separately labelled."
+  }
+}

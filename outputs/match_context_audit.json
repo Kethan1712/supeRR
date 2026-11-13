@@ -1,0 +1,12 @@
+{
+  "delivery_records": 194014,
+  "matches_represented": 837,
+  "innings_groups": 1660,
+  "regular_innings_records": 193988,
+  "additional_innings_records": 26,
+  "duplicate_delivery_numbers": 0,
+  "innings_groups_not_starting_at_ball_1": 0,
+  "innings_groups_with_sequence_gaps": 0,
+  "max_wickets_before_delivery": 9,
+  "wicket_state_monotonic": true
+}

@@ -1,0 +1,115 @@
+{
+  "scope": {
+    "regular_innings": "innings 1 and 2; pressure categories applied as match context",
+    "additional_innings": "retained separately and not mixed into regular pressure/ordinary groups",
+    "competitions": "all competition records in the supplied dataset are retained",
+    "bowling_interpretation": "early-collapse context describes pressure on the batting side; it is not automatically treated as pressure on the bowler"
+  },
+  "metric_definitions": {
+    "bowling_delivery_records": "all recorded delivery rows assigned to the bowler",
+    "candidate_legal_balls": "bowling delivery rows excluding extras_type wide and Overstep; Penalty retained in primary count due uncertain event semantics",
+    "candidate_legal_balls_excluding_penalty": "same as primary candidate legal balls but also excludes the single Penalty-coded record",
+    "bowler_credited_wickets": "is_wicket records with dismissal_type Bowled, Caught, LBW, Stump or Hit Wicket; stumping on wide remains credited; RunOut is not credited",
+    "source_runs_field_sum": "sum of runs field only; not complete bowler runs conceded because actual wide/byes/leg-byes are not fully present",
+    "economy_rate": "not calculated: total bowler-charged runs cannot be reconstructed reliably from supplied extras fields",
+    "dot_ball_rate": "not calculated: byes/leg-byes have missing run values, so zero runs field cannot identify a true dot ball",
+    "boundary_rates": "counts supplied is_four/is_six flags; source audit discloses flag mismatches"
+  },
+  "source_checks": {
+    "delivery_records": 194014,
+    "unique_bowlers": 596,
+    "missing_bowler_ids": 0,
+    "wide_records": 7474,
+    "overstep_records": 565,
+    "other_extras_records": 260,
+    "penalty_records": 1,
+    "primary_candidate_legal_ball_records": 185975,
+    "candidate_legal_balls_if_penalty_excluded": 185974,
+    "all_wicket_records": 10486,
+    "bowler_credited_wicket_records": 9905,
+    "non_bowler_wicket_records": 581,
+    "bowler_credited_wickets_on_wides": 25,
+    "bowler_credited_wickets_on_overstep": 0,
+    "missing_bowler_id_on_wicket_records": 0,
+    "source_runs_field_sum": 261119,
+    "four_flag_records_with_runs_not_equal_to_4": 0,
+    "six_flag_records_with_runs_not_equal_to_6": 0,
+    "runs_equal_4_without_four_flag": 20,
+    "runs_equal_6_without_six_flag": 3,
+    "extras2_nonzero_records": 35,
+    "extras2_sum": 83,
+    "extras_breakdown": {
+      "<null>": {
+        "records": 182548,
+        "sum_source_runs_field": 259874,
+        "records_with_nonzero_source_runs": 117087,
+        "records_with_nonzero_extras_2_runs": 1,
+        "sum_extras_2_runs": 1
+      },
+      "byes": {
+        "records": 505,
+        "sum_source_runs_field": 0,
+        "records_with_nonzero_source_runs": 0,
+        "records_with_nonzero_extras_2_runs": 0,
+        "sum_extras_2_runs": 0
+      },
+      "legbyes": {
+        "records": 2661,
+        "sum_source_runs_field": 0,
+        "records_with_nonzero_source_runs": 0,
+        "records_with_nonzero_extras_2_runs": 0,
+        "sum_extras_2_runs": 0
+      },
+      "other": {
+        "records": 260,
+        "sum_source_runs_field": 411,
+        "records_with_nonzero_source_runs": 135,
+        "records_with_nonzero_extras_2_runs": 13,
+        "sum_extras_2_runs": 34
+      },
+      "overstep": {
+        "records": 565,
+        "sum_source_runs_field": 834,
+        "records_with_nonzero_source_runs": 329,
+        "records_with_nonzero_extras_2_runs": 21,
+        "sum_extras_2_runs": 48
+      },
+      "penalty": {
+        "records": 1,
+        "sum_source_runs_field": 0,
+        "records_with_nonzero_source_runs": 0,
+        "records_with_nonzero_extras_2_runs": 0,
+        "sum_extras_2_runs": 0
+      },
+      "wide": {
+        "records": 7474,
+        "sum_source_runs_field": 0,
+        "records_with_nonzero_source_runs": 0,
+        "records_with_nonzero_extras_2_runs": 0,
+        "sum_extras_2_runs": 0
+      }
+    },
+    "wicket_type_counts": {
+      "Caught": 7332,
+      "Bowled": 1690,
+      "LBW": 666,
+      "RunOut": 573,
+      "Stump": 200,
+      "Hit Wicket": 17,
+      "Retire Out": 6,
+      "Obstracting the field": 1,
+      "Obstructing the field": 1
+    }
+  },
+  "metric_output": {
+    "player_metric_rows": 1888,
+    "player_match_metric_rows": 21471,
+    "metric_categories": [
+      "additional_innings_unclassified",
+      "combined_pressure_context",
+      "death_over_context",
+      "early_collapse_context",
+      "ordinary_baseline"
+    ]
+  }
+}

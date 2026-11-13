@@ -1,0 +1,73 @@
+{
+  "method": "Recalculate the entire context-matched peer baseline, player reliability evidence and rankings after changing only the early-collapse cutoff. Death-over cutoff and primary eligibility/prior settings remain fixed.",
+  "primary_collapse_cutoff_over_standard_20": 10,
+  "alternatives": [
+    {
+      "cutoff_over": 8,
+      "batting_ids": [
+        2533,
+        20702,
+        796,
+        2984,
+        4708,
+        37052,
+        2680,
+        4703,
+        20006,
+        2485
+      ],
+      "bowling_ids": [
+        781,
+        6643,
+        4722,
+        2436,
+        2417,
+        2636,
+        7312,
+        5940,
+        3641,
+        6161
+      ],
+      "baseline_batting_rows": 45972,
+      "baseline_bowling_rows": 40962,
+      "reliability_batting_players": 824,
+      "reliability_bowling_players": 596,
+      "baseline_batting_coverage_pct": 99.75,
+      "baseline_bowling_coverage_pct": 99.74
+    },
+    {
+      "cutoff_over": 12,
+      "batting_ids": [
+        2533,
+        37052,
+        2984,
+        4708,
+        4703,
+        20702,
+        4391,
+        2485,
+        1699,
+        4986
+      ],
+      "bowling_ids": [
+        781,
+        6643,
+        4722,
+        2417,
+        2636,
+        5940,
+        7312,
+        2436,
+        3641,
+        35318
+      ],
+      "baseline_batting_rows": 51771,
+      "baseline_bowling_rows": 47187,
+      "reliability_batting_players": 824,
+      "reliability_bowling_players": 596,
+      "baseline_batting_coverage_pct": 99.78,
+      "baseline_bowling_coverage_pct": 99.77
+    }
+  ],
+  "interpretation": "Top-10 overlap counts shared player IDs compared with the primary 10-over definition."
+}

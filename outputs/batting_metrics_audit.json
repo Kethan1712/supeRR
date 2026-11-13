@@ -1,0 +1,56 @@
+{
+  "metric_scope": {
+    "regular_innings": "innings 1 and 2; these receive pressure labels",
+    "additional_innings": "retained in a separate unclassified metric group; not mixed into pressure or ordinary baselines",
+    "all_competitions": "all competition records supplied to the pressure-enriched dataframe"
+  },
+  "batting_measurement_definitions": {
+    "balls_faced": "striker delivery records excluding extras_type='wide'; Overstep/no-ball records count; the single Penalty-coded record is retained in the primary count and a second balls-faced/strike-rate variant excludes it",
+    "recorded_runs": "sum of the source runs column; labelled recorded_runs because the pack has no complete data dictionary and extras coding contains anomalies",
+    "fours_and_sixes": "count of is_four and is_six flags; not inferred from runs==4/6, because some 4/6 run values have no boundary flag",
+    "dismissals": "is_wicket events attributed using dismissed_player_id; run-outs and non-striker dismissals are attributed to the dismissed batter, not automatically to striker",
+    "missing_dismissal_id": "not assigned to any player; explicitly counted in this audit"
+  },
+  "source_coverage": {
+    "delivery_records_input": 194014,
+    "regular_innings_records": 193988,
+    "additional_innings_records": 26,
+    "unique_strikers": 824,
+    "wide_records": 7474,
+    "overstep_records_counted_as_faced": 565,
+    "penalty_records_counted_as_faced": 1,
+    "balls_faced_records_primary_rule": 186540,
+    "balls_faced_records_excluding_penalty": 186539,
+    "recorded_runs_sum": 261119
+  },
+  "run_and_boundary_checks": {
+    "non_null_extras_records_with_nonzero_runs": 464,
+    "nonzero_runs_by_extras_type": {
+      "Overstep": 329,
+      "other": 135
+    },
+    "four_flags_with_runs_not_equal_to_4": 0,
+    "six_flags_with_runs_not_equal_to_6": 0,
+    "runs_equal_4_without_four_flag": 20,
+    "runs_equal_6_without_six_flag": 3
+  },
+  "dismissal_attribution_checks": {
+    "is_wicket_records": 10486,
+    "dismissed_player_id_missing": 1,
+    "dismissals_attributed_to_non_striker": 262,
+    "dismissals_attributed_to_striker": 10223,
+    "missing_dismissal_id_by_metric_category": {
+      "combined_pressure": 1,
+      "death_over_pressure": 1
+    }
+  },
+  "player_metric_rows": 2422,
+  "player_match_metric_rows": 23208,
+  "metric_categories": [
+    "additional_innings_unclassified",
+    "combined_pressure",
+    "death_over_pressure",
+    "early_collapse_pressure",
+    "ordinary_baseline"
+  ]
+}
