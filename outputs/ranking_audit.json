@@ -1,0 +1,71 @@
+{
+  "module": "player_ratings",
+  "primary_prior_strength": 60,
+  "performance_weight": 0.7,
+  "consistency_weight": 0.3,
+  "batter_metric_weights": {
+    "recorded_runs_per_100_balls": 0.5,
+    "dismissals_per_100_balls": 0.3,
+    "boundaries_per_100_balls": 0.2
+  },
+  "bowler_metric_weights": {
+    "bowler_wickets_per_100_candidate_legal_balls": 0.6,
+    "flagged_boundaries_per_100_candidate_legal_balls": 0.4
+  },
+  "eligibility": {
+    "batters_min_pressure_balls": 100,
+    "bowlers_min_death_over_candidate_legal_balls": 60,
+    "min_pressure_matches": 10,
+    "min_baseline_coverage_pct": 80.0,
+    "ordinary_baseline_must_also_meet_opportunity_and_match_thresholds": true,
+    "all_role_metrics_must_have_supported_baselines": true
+  },
+  "batting": {
+    "role": "batters",
+    "pressure_category": "combined_pressure",
+    "metric_weights": {
+      "recorded_runs_per_100_balls": 0.5,
+      "dismissals_per_100_balls": 0.3,
+      "boundaries_per_100_balls": 0.2
+    },
+    "prior_strength": 60,
+    "min_opportunities": 100,
+    "min_matches": 10,
+    "min_baseline_coverage_pct": 80.0,
+    "players_with_all_metrics": 96,
+    "pressure_rows_examined": 2133,
+    "eligible_metric_rows": 288,
+    "ranking_score": "70% performance composite + 30% match-consistency composite",
+    "performance_composite": "For each metric, 50% percentile of pressure performance vs peers + 50% percentile of pressure uplift vs the same player's ordinary peer-relative performance; then metric-weighted.",
+    "consistency_composite": "For each metric, 50% positive adjusted match share + 30% median adjusted match peer-relative performance + 20% inverse dispersion percentile; then metric-weighted.",
+    "score_interpretation": "Relative percentile composite from 0 to 100; not a probability or percentage chance of success."
+  },
+  "bowling": {
+    "role": "bowlers",
+    "pressure_category": "death_over_context",
+    "metric_weights": {
+      "bowler_wickets_per_100_candidate_legal_balls": 0.6,
+      "flagged_boundaries_per_100_candidate_legal_balls": 0.4
+    },
+    "prior_strength": 60,
+    "min_opportunities": 60,
+    "min_matches": 10,
+    "min_baseline_coverage_pct": 80.0,
+    "players_with_all_metrics": 156,
+    "pressure_rows_examined": 980,
+    "eligible_metric_rows": 312,
+    "ranking_score": "70% performance composite + 30% match-consistency composite",
+    "performance_composite": "For each metric, 50% percentile of pressure performance vs peers + 50% percentile of pressure uplift vs the same player's ordinary peer-relative performance; then metric-weighted.",
+    "consistency_composite": "For each metric, 50% positive adjusted match share + 30% median adjusted match peer-relative performance + 20% inverse dispersion percentile; then metric-weighted.",
+    "score_interpretation": "Relative percentile composite from 0 to 100; not a probability or percentage chance of success."
+  },
+  "bowling_pressure_scope_note": "Main bowler ranking uses death-over context. Early-collapse bowling context is retained as supporting analysis, not treated as pressure on the bowler.",
+  "limitations": [
+    "Recorded batting runs are not a completely scorecard-reconciled official batter-runs field.",
+    "Bowling uses candidate legal balls excluding wides and Overstep; the candidate count is not independently scorecard-certified.",
+    "Bowling uses bowler-creditable wickets and boundary flags; economy rate and true dot-ball rate are not used because bowler extras are incomplete.",
+    "The composite score is a transparent relative ranking index, not a calibrated probability.",
+    "The 60-opportunity shrinkage prior and eligibility thresholds are modelling choices; stability checks are required."
+  ],
+  "rankings_created": true
+}

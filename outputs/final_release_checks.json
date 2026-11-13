@@ -1,0 +1,110 @@
+{
+  "ball_by_ball.csv": {
+    "identical_to_source_pack": true,
+    "bytes": 41071609
+  },
+  "matches.csv": {
+    "identical_to_source_pack": true,
+    "bytes": 123864
+  },
+  "playing_eleven.csv": {
+    "identical_to_source_pack": true,
+    "bytes": 966287
+  },
+  "competition_team_player_mapping.csv": {
+    "identical_to_source_pack": true,
+    "bytes": 462969
+  },
+  "teams.csv": {
+    "identical_to_source_pack": true,
+    "bytes": 6922
+  },
+  "competitions.csv": {
+    "identical_to_source_pack": true,
+    "bytes": 7624
+  },
+  "ranking_evidence_csv_match": {
+    "batters": true,
+    "bowlers": true
+  },
+  "reports_exist": {
+    "docx": true,
+    "docx_bytes": 114963,
+    "pdf": true,
+    "pdf_bytes": 662255,
+    "pdf_pages": 22
+  },
+  "original_ranking_lock": {
+    "batters": {
+      "same_player_ids_in_same_order": true,
+      "same_scores_to_precision": true,
+      "players": [
+        "Najibullah Zadran",
+        "Sikandar Raza",
+        "Naman Dhir",
+        "Rinku Singh",
+        "Tristan Stubbs",
+        "Nurul Hasan",
+        "Rishabh Pant",
+        "Ramandeep Singh",
+        "Babar Azam",
+        "Glenn Phillips"
+      ]
+    },
+    "bowlers": {
+      "same_player_ids_in_same_order": true,
+      "same_scores_to_precision": true,
+      "players": [
+        "Sunil Narine",
+        "Hasan Mahmud",
+        "Rashid Khan",
+        "Akeal Hosein",
+        "Dasun Shanaka",
+        "Riley Meredith",
+        "Adam Zampa",
+        "Nandre Burger",
+        "Ben Dwarshuis",
+        "Rahul Chahar"
+      ]
+    },
+    "reference": "user-provided SupeRR_Selector_Season_2_Final_Audited(1).zip",
+    "ranking_csv_sha256": {
+      "batting_rankings_top10.csv": "20007e64e94df60a2bab5716553b8683114b40286f91f59aa24888f77e9458f2",
+      "bowling_rankings_top10.csv": "5216b013f95ef8b0834552d7b93942784e73922d7044fd8e04689afea6818a53"
+    }
+  },
+  "report_table_match": {
+    "batters": {
+      "names_match": true,
+      "scores_match_rounded_2dp": true
+    },
+    "bowlers": {
+      "names_match": true,
+      "scores_match_rounded_2dp": true
+    }
+  },
+  "report_pages": 22,
+  "competition_scope_comparison": {
+    "independently_rerun": true,
+    "primary_matches": 853,
+    "expanded_matches": 883,
+    "additional_matches": 30,
+    "additional_delivery_rows": 6985,
+    "batter_top10_overlap": "9/10",
+    "bowler_top10_overlap": "8/10",
+    "primary_rankings_overwritten": false,
+    "comparison_outputs_present": true
+  },
+  "automated_tests": {
+    "passed": 57,
+    "failed": 0,
+    "command": "python -m pytest -q",
+    "final_run": "57 passed"
+  },
+  "document_render_verification": {
+    "docx_pages_rendered": 22,
+    "pdf_pages_rendered": 22,
+    "clean_run_command_includes_scope_runner": true,
+    "full_page_visual_review_completed": true
+  }
+}

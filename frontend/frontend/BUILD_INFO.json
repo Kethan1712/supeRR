@@ -1,0 +1,36 @@
+{
+  "project": "SupeRR Selector Season 2",
+  "component": "Read-only Streamlit frontend",
+  "source_project_archive": "SupeRR_Selector_Season_2_Final_Complete.zip",
+  "created": "2026-11-13",
+  "primary_scope": "IPL 2022 onward + T20 Internationals from 2022 onward",
+  "data_behavior": "Reads existing outputs/*.csv and outputs/*.json; does not recalculate or modify rankings",
+  "sections": [
+    "Overview",
+    "Top 10 Batters",
+    "Top 10 Bowlers",
+    "Player Intelligence",
+    "Pressure Analysis",
+    "Scope Comparison",
+    "RR Auction Strategy",
+    "Methodology & Validation"
+  ],
+  "required_output_files": [
+    "outputs/batting_rankings_top10.csv",
+    "outputs/bowling_rankings_top10.csv",
+    "outputs/top10_batter_evidence.csv",
+    "outputs/top10_bowler_evidence.csv",
+    "outputs/top10_batter_match_spotlights.csv",
+    "outputs/top10_bowler_match_spotlights.csv",
+    "outputs/rr_2027_role_depth_matrix.csv",
+    "outputs/rr_2027_ranked_player_fit.csv",
+    "outputs/competition_scope_audit.json",
+    "outputs/pressure_detection_audit.json",
+    "outputs/final_validation_summary.json",
+    "outputs/final_release_checks.json",
+    "outputs/scope_comparison/competition_scope_comparison.json",
+    "outputs/scope_comparison/competition_scope_comparison_players.csv",
+    "outputs/scope_comparison/expanded_batting_rankings_top10.csv",
+    "outputs/scope_comparison/expanded_bowling_rankings_top10.csv"
+  ]
+}

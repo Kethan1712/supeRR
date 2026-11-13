@@ -1,0 +1,919 @@
+metric,metric_category,peer_baseline_scope,peer_baseline_cohort,league_rate,league_opportunities,league_players,peer_rate_direction,role
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=1358 | innings=1 | phase=death,22.421731123388582,2172.0,112.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=1358 | innings=2 | phase=death,22.13348545350827,1753.0,117.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=1533 | innings=1 | phase=death,20.207253886010363,386.0,36.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=1715 | innings=1 | phase=death,23.14272850067537,2221.0,126.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=1715 | innings=2 | phase=death,20.0,1795.0,121.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=1715 | innings=2 | phase=middle,12.56544502617801,382.0,37.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=2193 | innings=1 | phase=death,24.5697896749522,2092.0,106.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=2193 | innings=2 | phase=death,23.754789272030653,1566.0,110.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=2725 | innings=1 | phase=death,25.27315914489311,2105.0,109.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=2725 | innings=1 | phase=middle,14.02439024390244,328.0,29.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=2725 | innings=2 | phase=death,22.0349967595593,1543.0,113.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=2725 | innings=2 | phase=middle,19.06158357771261,341.0,27.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=3133 | innings=1 | phase=death,17.56007393715342,541.0,49.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=3133 | innings=2 | phase=death,17.17948717948718,390.0,52.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=3298 | innings=1 | phase=death,23.9292364990689,2148.0,125.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=3298 | innings=2 | phase=death,24.066924066924066,1554.0,119.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,competition_innings_phase,competition=3298 | innings=2 | phase=middle,19.5822454308094,383.0,31.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_innings_phase,format=T20 | innings=1 | phase=middle,10.991957104557642,1119.0,79.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_innings_phase,format=T20 | innings=2 | phase=middle,16.798418972332016,1518.0,96.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=1 | phase=death,20.581132075471697,13250.0,442.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=1 | phase=middle,11.275314723590586,1827.0,114.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=2 | phase=death,19.07675194660734,8990.0,463.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=2 | phase=middle,12.791172864732324,2447.0,181.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=2 | phase=powerplay,7.142857142857142,56.0,18.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=death,21.8773373223635,2674.0,161.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=death,19.6437168993741,2077.0,168.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,13.111111111111112,450.0,37.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=death,21.21212121212121,363.0,39.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=death,20.51991150442478,1808.0,142.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=death,20.067739204064353,1181.0,124.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,14.696485623003195,313.0,33.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,20.539065165472532,2931.0,207.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,10.379241516966067,501.0,35.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=death,18.132141082960754,2013.0,193.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,13.90284757118928,597.0,48.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=death,18.872987477638638,3354.0,208.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,9.3812375249501,501.0,45.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=death,19.41793893129771,2096.0,182.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,11.11111111111111,666.0,67.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=death,21.815368746776688,1939.0,140.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=death,18.564356435643564,1212.0,133.0,higher_is_better,batter
+boundaries_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,11.345646437994723,379.0,46.0,higher_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=1358 | innings=1 | phase=death,8.379373848987107,2172.0,112.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=1358 | innings=2 | phase=death,8.38562464346834,1753.0,117.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=1533 | innings=1 | phase=death,7.253886010362693,386.0,36.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=1715 | innings=1 | phase=death,8.059432687978388,2221.0,126.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=1715 | innings=2 | phase=death,8.52367688022284,1795.0,121.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=1715 | innings=2 | phase=middle,7.068062827225131,382.0,37.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=2193 | innings=1 | phase=death,7.88718929254302,2092.0,106.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=2193 | innings=2 | phase=death,8.365261813537675,1566.0,110.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=2725 | innings=1 | phase=death,8.598574821852733,2105.0,109.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=2725 | innings=1 | phase=middle,5.182926829268292,328.0,29.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=2725 | innings=2 | phase=death,8.619572261827608,1543.0,113.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=2725 | innings=2 | phase=middle,3.519061583577713,341.0,27.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=3133 | innings=1 | phase=death,8.317929759704251,541.0,49.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=3133 | innings=2 | phase=death,10.512820512820513,390.0,52.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=3298 | innings=1 | phase=death,8.007448789571695,2148.0,125.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=3298 | innings=2 | phase=death,7.271557271557272,1554.0,119.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,competition_innings_phase,competition=3298 | innings=2 | phase=middle,6.527415143603134,383.0,31.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_innings_phase,format=T20 | innings=1 | phase=middle,5.183199285075961,1119.0,79.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_innings_phase,format=T20 | innings=2 | phase=middle,5.533596837944664,1518.0,96.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=1 | phase=death,8.679245283018867,13250.0,442.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=1 | phase=middle,4.21455938697318,1827.0,114.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=2 | phase=death,9.2880978865406,8990.0,463.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=2 | phase=middle,6.742950551695954,2447.0,181.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=2 | phase=powerplay,1.7857142857142856,56.0,18.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=death,8.115183246073299,2674.0,161.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=death,7.896003851709196,2077.0,168.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,6.222222222222222,450.0,37.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=death,10.192837465564738,363.0,39.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=death,8.573008849557521,1808.0,142.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=death,8.29805249788315,1181.0,124.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,7.348242811501597,313.0,33.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,8.393039918116683,2931.0,207.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,4.590818363273453,501.0,35.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=death,10.730253353204173,2013.0,193.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,5.527638190954774,597.0,48.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=death,9.511031604054859,3354.0,208.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,5.389221556886228,501.0,45.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=death,9.82824427480916,2096.0,182.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,6.906906906906906,666.0,67.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=death,8.50954100051573,1939.0,140.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=death,9.570957095709572,1212.0,133.0,lower_is_better,batter
+dismissals_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,8.443271767810026,379.0,46.0,lower_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=1358 | innings=1 | phase=death,165.00920810313076,2172.0,112.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=1358 | innings=2 | phase=death,160.69594980034228,1753.0,117.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=1533 | innings=1 | phase=death,159.58549222797927,386.0,36.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=1715 | innings=1 | phase=death,170.37370553804593,2221.0,126.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=1715 | innings=2 | phase=death,152.75766016713092,1795.0,121.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=1715 | innings=2 | phase=middle,113.35078534031413,382.0,37.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=2193 | innings=1 | phase=death,178.1548757170172,2092.0,106.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=2193 | innings=2 | phase=death,167.87994891443168,1566.0,110.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=2725 | innings=1 | phase=death,178.24228028503563,2105.0,109.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=2725 | innings=1 | phase=middle,117.98780487804879,328.0,29.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=2725 | innings=2 | phase=death,162.99416720674012,1543.0,113.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=2725 | innings=2 | phase=middle,144.57478005865104,341.0,27.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=3133 | innings=1 | phase=death,151.3863216266174,541.0,49.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=3133 | innings=2 | phase=death,132.56410256410257,390.0,52.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=3298 | innings=1 | phase=death,170.81005586592178,2148.0,125.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=3298 | innings=2 | phase=death,167.76061776061778,1554.0,119.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,competition_innings_phase,competition=3298 | innings=2 | phase=middle,142.55874673629242,383.0,31.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_innings_phase,format=T20 | innings=1 | phase=middle,103.48525469168901,1119.0,79.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_innings_phase,format=T20 | innings=2 | phase=middle,132.21343873517785,1518.0,96.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=1 | phase=death,158.81509433962265,13250.0,442.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=1 | phase=middle,103.94088669950739,1827.0,114.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=2 | phase=death,145.78420467185762,8990.0,463.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=2 | phase=middle,110.46178994687372,2447.0,181.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_innings_phase,format=T20I | innings=2 | phase=powerplay,60.71428571428571,56.0,18.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=death,165.6320119670905,2674.0,161.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=death,148.82041405873855,2077.0,168.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,109.77777777777777,450.0,37.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=death,159.77961432506888,363.0,39.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=death,161.39380530973452,1808.0,142.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=death,151.14309906858594,1181.0,124.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,126.83706070287539,313.0,33.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,154.93005800068235,2931.0,207.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,103.99201596806387,501.0,35.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=death,139.9900645802285,2013.0,193.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,119.43048576214406,597.0,48.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=death,150.3279666070364,3354.0,208.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,88.42315369261478,501.0,45.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=death,145.80152671755727,2096.0,182.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,96.3963963963964,666.0,67.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=death,167.0964414646725,1939.0,140.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=death,145.3795379537954,1212.0,133.0,higher_is_better,batter
+recorded_runs_per_100_balls,combined_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,106.59630606860158,379.0,46.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=1358 | innings=1 | phase=death,22.421731123388582,2172.0,112.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=1358 | innings=2 | phase=death,22.13348545350827,1753.0,117.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=1533 | innings=1 | phase=death,20.207253886010363,386.0,36.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=1715 | innings=1 | phase=death,23.14272850067537,2221.0,126.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=1715 | innings=2 | phase=death,20.0,1795.0,121.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=2193 | innings=1 | phase=death,24.5697896749522,2092.0,106.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=2193 | innings=2 | phase=death,23.754789272030653,1566.0,110.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=2725 | innings=1 | phase=death,25.27315914489311,2105.0,109.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=2725 | innings=2 | phase=death,22.0349967595593,1543.0,113.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=3133 | innings=1 | phase=death,17.56007393715342,541.0,49.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=3133 | innings=2 | phase=death,17.17948717948718,390.0,52.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=3298 | innings=1 | phase=death,23.9292364990689,2148.0,125.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,competition_innings_phase,competition=3298 | innings=2 | phase=death,24.066924066924066,1554.0,119.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_innings_phase,format=T20I | innings=1 | phase=death,20.581132075471697,13250.0,442.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_innings_phase,format=T20I | innings=2 | phase=death,19.07675194660734,8990.0,463.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=death,21.8773373223635,2674.0,161.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=death,19.6437168993741,2077.0,168.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=death,21.21212121212121,363.0,39.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=death,20.51991150442478,1808.0,142.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=death,20.067739204064353,1181.0,124.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,20.539065165472532,2931.0,207.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=death,18.132141082960754,2013.0,193.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=death,18.872987477638638,3354.0,208.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=death,19.41793893129771,2096.0,182.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=death,21.815368746776688,1939.0,140.0,higher_is_better,batter
+boundaries_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=death,18.564356435643564,1212.0,133.0,higher_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=1358 | innings=1 | phase=death,8.379373848987107,2172.0,112.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=1358 | innings=2 | phase=death,8.38562464346834,1753.0,117.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=1533 | innings=1 | phase=death,7.253886010362693,386.0,36.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=1715 | innings=1 | phase=death,8.059432687978388,2221.0,126.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=1715 | innings=2 | phase=death,8.52367688022284,1795.0,121.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=2193 | innings=1 | phase=death,7.88718929254302,2092.0,106.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=2193 | innings=2 | phase=death,8.365261813537675,1566.0,110.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=2725 | innings=1 | phase=death,8.598574821852733,2105.0,109.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=2725 | innings=2 | phase=death,8.619572261827608,1543.0,113.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=3133 | innings=1 | phase=death,8.317929759704251,541.0,49.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=3133 | innings=2 | phase=death,10.512820512820513,390.0,52.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=3298 | innings=1 | phase=death,8.007448789571695,2148.0,125.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,competition_innings_phase,competition=3298 | innings=2 | phase=death,7.271557271557272,1554.0,119.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_innings_phase,format=T20I | innings=1 | phase=death,8.679245283018867,13250.0,442.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_innings_phase,format=T20I | innings=2 | phase=death,9.2880978865406,8990.0,463.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=death,8.115183246073299,2674.0,161.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=death,7.896003851709196,2077.0,168.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=death,10.192837465564738,363.0,39.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=death,8.573008849557521,1808.0,142.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=death,8.29805249788315,1181.0,124.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,8.393039918116683,2931.0,207.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=death,10.730253353204173,2013.0,193.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=death,9.511031604054859,3354.0,208.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=death,9.82824427480916,2096.0,182.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=death,8.50954100051573,1939.0,140.0,lower_is_better,batter
+dismissals_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=death,9.570957095709572,1212.0,133.0,lower_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=1358 | innings=1 | phase=death,165.00920810313076,2172.0,112.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=1358 | innings=2 | phase=death,160.69594980034228,1753.0,117.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=1533 | innings=1 | phase=death,159.58549222797927,386.0,36.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=1715 | innings=1 | phase=death,170.37370553804593,2221.0,126.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=1715 | innings=2 | phase=death,152.75766016713092,1795.0,121.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=2193 | innings=1 | phase=death,178.1548757170172,2092.0,106.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=2193 | innings=2 | phase=death,167.87994891443168,1566.0,110.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=2725 | innings=1 | phase=death,178.24228028503563,2105.0,109.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=2725 | innings=2 | phase=death,162.99416720674012,1543.0,113.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=3133 | innings=1 | phase=death,151.3863216266174,541.0,49.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=3133 | innings=2 | phase=death,132.56410256410257,390.0,52.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=3298 | innings=1 | phase=death,170.81005586592178,2148.0,125.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,competition_innings_phase,competition=3298 | innings=2 | phase=death,167.76061776061778,1554.0,119.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_innings_phase,format=T20I | innings=1 | phase=death,158.81509433962265,13250.0,442.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_innings_phase,format=T20I | innings=2 | phase=death,145.78420467185762,8990.0,463.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=death,165.6320119670905,2674.0,161.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=death,148.82041405873855,2077.0,168.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=death,159.77961432506888,363.0,39.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=death,161.39380530973452,1808.0,142.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=death,151.14309906858594,1181.0,124.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,154.93005800068235,2931.0,207.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=death,139.9900645802285,2013.0,193.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=death,150.3279666070364,3354.0,208.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=death,145.80152671755727,2096.0,182.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=death,167.0964414646725,1939.0,140.0,higher_is_better,batter
+recorded_runs_per_100_balls,death_over_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=death,145.3795379537954,1212.0,133.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,competition_innings_phase,competition=1715 | innings=2 | phase=middle,12.56544502617801,382.0,37.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,competition_innings_phase,competition=2725 | innings=1 | phase=middle,14.02439024390244,328.0,29.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,competition_innings_phase,competition=2725 | innings=2 | phase=middle,19.06158357771261,341.0,27.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,competition_innings_phase,competition=3298 | innings=2 | phase=middle,19.5822454308094,383.0,31.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20 | innings=1 | phase=death,17.862838915470494,627.0,63.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20 | innings=1 | phase=middle,10.991957104557642,1119.0,79.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20 | innings=2 | phase=death,17.964824120603016,796.0,85.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20 | innings=2 | phase=middle,16.798418972332016,1518.0,96.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=1 | phase=death,17.372134038800706,1134.0,113.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=1 | phase=middle,11.275314723590586,1827.0,114.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=2 | phase=death,16.033364226135312,1079.0,118.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=2 | phase=middle,12.791172864732324,2447.0,181.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=2 | phase=powerplay,7.142857142857142,56.0,18.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,13.111111111111112,450.0,37.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,14.696485623003195,313.0,33.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,18.92744479495268,317.0,36.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,10.379241516966067,501.0,35.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,13.90284757118928,597.0,48.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,9.3812375249501,501.0,45.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,11.11111111111111,666.0,67.0,higher_is_better,batter
+boundaries_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,11.345646437994723,379.0,46.0,higher_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,competition_innings_phase,competition=1715 | innings=2 | phase=middle,7.068062827225131,382.0,37.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,competition_innings_phase,competition=2725 | innings=1 | phase=middle,5.182926829268292,328.0,29.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,competition_innings_phase,competition=2725 | innings=2 | phase=middle,3.519061583577713,341.0,27.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,competition_innings_phase,competition=3298 | innings=2 | phase=middle,6.527415143603134,383.0,31.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20 | innings=1 | phase=death,8.293460925039872,627.0,63.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20 | innings=1 | phase=middle,5.183199285075961,1119.0,79.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20 | innings=2 | phase=death,9.045226130653267,796.0,85.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20 | innings=2 | phase=middle,5.533596837944664,1518.0,96.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=1 | phase=death,7.936507936507936,1134.0,113.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=1 | phase=middle,4.21455938697318,1827.0,114.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=2 | phase=death,9.823911028730306,1079.0,118.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=2 | phase=middle,6.742950551695954,2447.0,181.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=2 | phase=powerplay,1.7857142857142856,56.0,18.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,6.222222222222222,450.0,37.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,7.348242811501597,313.0,33.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,9.46372239747634,317.0,36.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,4.590818363273453,501.0,35.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,5.527638190954774,597.0,48.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,5.389221556886228,501.0,45.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,6.906906906906906,666.0,67.0,lower_is_better,batter
+dismissals_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,8.443271767810026,379.0,46.0,lower_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,competition_innings_phase,competition=1715 | innings=2 | phase=middle,113.35078534031413,382.0,37.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,competition_innings_phase,competition=2725 | innings=1 | phase=middle,117.98780487804879,328.0,29.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,competition_innings_phase,competition=2725 | innings=2 | phase=middle,144.57478005865104,341.0,27.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,competition_innings_phase,competition=3298 | innings=2 | phase=middle,142.55874673629242,383.0,31.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20 | innings=1 | phase=death,137.48006379585325,627.0,63.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20 | innings=1 | phase=middle,103.48525469168901,1119.0,79.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20 | innings=2 | phase=death,135.30150753768845,796.0,85.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20 | innings=2 | phase=middle,132.21343873517785,1518.0,96.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=1 | phase=death,139.15343915343917,1134.0,113.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=1 | phase=middle,103.94088669950739,1827.0,114.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=2 | phase=death,124.1890639481001,1079.0,118.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=2 | phase=middle,110.46178994687372,2447.0,181.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_innings_phase,format=T20I | innings=2 | phase=powerplay,60.71428571428571,56.0,18.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,109.77777777777777,450.0,37.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,126.83706070287539,313.0,33.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,141.3249211356467,317.0,36.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,103.99201596806387,501.0,35.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,119.43048576214406,597.0,48.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,88.42315369261478,501.0,45.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,96.3963963963964,666.0,67.0,higher_is_better,batter
+recorded_runs_per_100_balls,early_collapse_pressure,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,106.59630606860158,379.0,46.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=1 | phase=middle,14.903595622720168,3838.0,93.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=1 | phase=powerplay,19.372900335946248,2679.0,63.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=2 | phase=middle,14.924583223074888,3779.0,104.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=2 | phase=powerplay,19.460067491563553,2667.0,79.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=1 | phase=middle,10.935023771790808,631.0,32.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=1 | phase=powerplay,15.466101694915254,472.0,25.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=2 | phase=middle,11.091854419410744,577.0,27.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=2 | phase=powerplay,15.53191489361702,470.0,23.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1595 | innings=1 | phase=middle,14.814814814814813,378.0,15.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1595 | innings=2 | phase=middle,14.627659574468085,376.0,16.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1608 | innings=1 | phase=middle,12.16931216931217,378.0,18.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1608 | innings=2 | phase=middle,13.984168865435356,379.0,17.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=1 | phase=middle,15.69767441860465,3784.0,102.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=1 | phase=powerplay,22.55048616305161,2674.0,69.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=2 | phase=middle,16.144646924829157,3512.0,92.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=2 | phase=powerplay,22.682370820668694,2632.0,72.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=1 | phase=middle,16.77069199457259,3685.0,103.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=1 | phase=powerplay,23.538581449727204,2566.0,69.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=2 | phase=middle,16.96377228292122,3478.0,101.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=2 | phase=powerplay,26.303501945525294,2570.0,71.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=1 | phase=middle,17.2147001934236,3619.0,90.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=1 | phase=powerplay,24.728769173213617,2673.0,65.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=2 | phase=middle,18.965010291090856,3401.0,92.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=2 | phase=powerplay,25.127201565557726,2555.0,75.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=1 | phase=middle,10.043668122270741,916.0,50.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=1 | phase=powerplay,18.168604651162788,688.0,35.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=2 | phase=middle,11.943793911007026,854.0,46.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=2 | phase=powerplay,17.159763313609467,676.0,41.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3159 | innings=1 | phase=middle,13.492063492063492,378.0,13.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3159 | innings=2 | phase=middle,8.157099697885197,331.0,23.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3288 | innings=1 | phase=middle,9.473684210526317,380.0,18.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3288 | innings=2 | phase=middle,11.014492753623188,345.0,18.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=1 | phase=middle,18.81457313757477,3678.0,93.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=1 | phase=powerplay,26.532165968785687,2627.0,68.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=2 | phase=middle,18.911091804228207,3453.0,95.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=2 | phase=powerplay,27.23780253553592,2603.0,75.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=1 | phase=middle,14.667492588823503,22601.0,365.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=1 | phase=powerplay,20.037194792729018,16669.0,275.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=2 | phase=middle,14.619398254254644,20507.0,401.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=2 | phase=powerplay,20.612830753869197,16024.0,288.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=middle,13.559322033898304,4661.0,142.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=powerplay,18.059299191374663,3339.0,122.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,13.159144893111637,4210.0,166.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=powerplay,18.58325666973321,3261.0,119.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=middle,16.161616161616163,594.0,28.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=powerplay,18.734793187347933,411.0,25.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=2 | phase=middle,14.160839160839162,572.0,31.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=2 | phase=powerplay,16.397228637413395,433.0,27.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=middle,14.942893401015228,3152.0,112.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=powerplay,20.820467578297308,2267.0,88.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,14.765820521987843,2797.0,126.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=powerplay,20.57594054807246,2153.0,91.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,14.725050916496945,4910.0,187.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=powerplay,20.35782054757387,3689.0,136.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,14.595660749506903,4563.0,178.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=powerplay,21.29032258064516,3565.0,135.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,14.06991041630072,5693.0,171.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=powerplay,19.915946766285312,4283.0,116.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,14.717425431711145,5096.0,166.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=powerplay,20.426065162907268,3990.0,119.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=middle,16.636690647482013,3336.0,123.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=powerplay,22.330491270807958,2463.0,94.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,16.502546689303905,2945.0,139.0,higher_is_better,batter
+boundaries_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=powerplay,23.896752706078267,2402.0,102.0,higher_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=1 | phase=middle,3.9603960396039604,3838.0,93.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=1 | phase=powerplay,3.9193729003359463,2679.0,63.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=2 | phase=middle,4.974861074358296,3779.0,104.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=2 | phase=powerplay,4.311961004874391,2667.0,79.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=1 | phase=middle,4.595879556259905,631.0,32.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=1 | phase=powerplay,4.4491525423728815,472.0,25.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=2 | phase=middle,4.506065857885615,577.0,27.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=2 | phase=powerplay,4.680851063829787,470.0,23.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1595 | innings=1 | phase=middle,4.232804232804233,378.0,15.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1595 | innings=2 | phase=middle,3.1914893617021276,376.0,16.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1608 | innings=1 | phase=middle,4.232804232804233,378.0,18.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1608 | innings=2 | phase=middle,3.6939313984168867,379.0,17.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=1 | phase=middle,4.6247357293868925,3784.0,102.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=1 | phase=powerplay,3.4031413612565444,2674.0,69.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=2 | phase=middle,4.441913439635535,3512.0,92.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=2 | phase=powerplay,4.635258358662614,2632.0,72.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=1 | phase=middle,4.586160108548168,3685.0,103.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=1 | phase=powerplay,4.403741231488699,2566.0,69.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=2 | phase=middle,4.88786658999425,3478.0,101.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=2 | phase=powerplay,4.43579766536965,2570.0,71.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=1 | phase=middle,4.669798286819563,3619.0,90.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=1 | phase=powerplay,3.928170594837262,2673.0,65.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=2 | phase=middle,4.3222581593648925,3401.0,92.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=2 | phase=powerplay,4.070450097847359,2555.0,75.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=1 | phase=middle,5.895196506550218,916.0,50.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=1 | phase=powerplay,3.9244186046511627,688.0,35.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=2 | phase=middle,4.098360655737705,854.0,46.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=2 | phase=powerplay,5.029585798816568,676.0,41.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3159 | innings=1 | phase=middle,4.232804232804233,378.0,13.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3159 | innings=2 | phase=middle,8.157099697885197,331.0,23.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3288 | innings=1 | phase=middle,4.736842105263158,380.0,18.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3288 | innings=2 | phase=middle,3.768115942028986,345.0,18.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=1 | phase=middle,4.32300163132137,3678.0,93.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=1 | phase=powerplay,4.149219642177389,2627.0,68.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=2 | phase=middle,4.807413843035042,3453.0,95.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=2 | phase=powerplay,4.648482520169036,2603.0,75.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=1 | phase=middle,4.853767532410071,22601.0,365.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=1 | phase=powerplay,4.787329773831663,16669.0,275.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=2 | phase=middle,5.212854147364315,20507.0,401.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=2 | phase=powerplay,5.104842735896155,16024.0,288.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=middle,4.548380175927912,4661.0,142.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=powerplay,4.552261156034741,3339.0,122.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,5.344418052256532,4210.0,166.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=powerplay,5.121128488193805,3261.0,119.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=middle,3.535353535353535,594.0,28.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=powerplay,4.13625304136253,411.0,25.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=2 | phase=middle,4.020979020979021,572.0,31.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=2 | phase=powerplay,4.157043879907621,433.0,27.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=middle,4.536802030456853,3152.0,112.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=powerplay,4.9845610939567715,2267.0,88.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,5.184125849124062,2797.0,126.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=powerplay,5.155596841616349,2153.0,91.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,5.132382892057027,4910.0,187.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=powerplay,4.933586337760911,3689.0,136.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,5.17203594126671,4563.0,178.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=powerplay,5.273492286115007,3565.0,135.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,5.129105919550325,5693.0,171.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=powerplay,4.4594910109736166,4283.0,116.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,5.337519623233909,5096.0,166.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=powerplay,5.037593984962406,3990.0,119.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=middle,4.796163069544365,3336.0,123.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=powerplay,5.440519691433211,2463.0,94.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,5.195246179966044,2945.0,139.0,lower_is_better,batter
+dismissals_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=powerplay,5.203996669442131,2402.0,102.0,lower_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=1 | phase=middle,129.91141219385096,3838.0,93.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=1 | phase=powerplay,123.06830907054871,2679.0,63.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=2 | phase=middle,129.4257740142895,3779.0,104.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=2 | phase=powerplay,119.91001124859393,2667.0,79.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=1 | phase=middle,118.70047543581617,631.0,32.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=1 | phase=powerplay,117.16101694915255,472.0,25.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=2 | phase=middle,114.3847487001733,577.0,27.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=2 | phase=powerplay,109.36170212765957,470.0,23.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1595 | innings=1 | phase=middle,139.94708994708995,378.0,15.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1595 | innings=2 | phase=middle,134.04255319148936,376.0,16.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1608 | innings=1 | phase=middle,126.98412698412697,378.0,18.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1608 | innings=2 | phase=middle,132.4538258575198,379.0,17.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=1 | phase=middle,136.97145877378435,3784.0,102.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=1 | phase=powerplay,138.1077038145101,2674.0,69.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=2 | phase=middle,137.04441913439635,3512.0,92.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=2 | phase=powerplay,136.01823708206686,2632.0,72.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=1 | phase=middle,142.6865671641791,3685.0,103.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=1 | phase=powerplay,143.02416212003118,2566.0,69.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=2 | phase=middle,140.39677975848187,3478.0,101.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=2 | phase=powerplay,154.2023346303502,2570.0,71.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=1 | phase=middle,141.28212213318596,3619.0,90.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=1 | phase=powerplay,152.33819678264123,2673.0,65.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=2 | phase=middle,149.51484857394883,3401.0,92.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=2 | phase=powerplay,150.80234833659492,2555.0,75.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=1 | phase=middle,111.24454148471617,916.0,50.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=1 | phase=powerplay,123.83720930232558,688.0,35.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=2 | phase=middle,120.14051522248243,854.0,46.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=2 | phase=powerplay,121.44970414201184,676.0,41.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3159 | innings=1 | phase=middle,130.68783068783068,378.0,13.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3159 | innings=2 | phase=middle,96.37462235649546,331.0,23.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3288 | innings=1 | phase=middle,107.10526315789475,380.0,18.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3288 | innings=2 | phase=middle,116.23188405797103,345.0,18.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=1 | phase=middle,149.64654703643285,3678.0,93.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=1 | phase=powerplay,156.98515416825276,2627.0,68.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=2 | phase=middle,148.8560671879525,3453.0,95.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=2 | phase=powerplay,161.890126776796,2603.0,75.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=1 | phase=middle,131.41896376266538,22601.0,365.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=1 | phase=powerplay,127.97408362829204,16669.0,275.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=2 | phase=middle,129.9556249085678,20507.0,401.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=2 | phase=powerplay,131.18447329006491,16024.0,288.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=middle,126.68955159836945,4661.0,142.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=powerplay,120.30548068283917,3339.0,122.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,123.20665083135391,4210.0,166.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=powerplay,121.15915363385466,3261.0,119.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=middle,141.24579124579125,594.0,28.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=powerplay,115.57177615571777,411.0,25.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=2 | phase=middle,134.7902097902098,572.0,31.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=2 | phase=powerplay,110.62355658198615,433.0,27.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=middle,131.18654822335026,3152.0,112.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=powerplay,130.03970004411116,2267.0,88.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,128.49481587415087,2797.0,126.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=powerplay,130.65490013934044,2153.0,91.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,130.61099796334014,4910.0,187.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=powerplay,127.35158579560857,3689.0,136.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,129.32281393819855,4563.0,178.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=powerplay,131.61290322580646,3565.0,135.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,129.63288248726505,5693.0,171.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=powerplay,130.09572729395285,4283.0,116.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,129.82731554160125,5096.0,166.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=powerplay,131.8295739348371,3990.0,119.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=middle,140.79736211031175,3336.0,123.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=powerplay,136.62200568412507,2463.0,94.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,140.169779286927,2945.0,139.0,higher_is_better,batter
+recorded_runs_per_100_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=powerplay,148.50124895920067,2402.0,102.0,higher_is_better,batter
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1358 | innings=1 | phase=death,7.400555041628122,2162.0,76.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1358 | innings=2 | phase=death,7.534246575342466,1752.0,78.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1533 | innings=1 | phase=death,5.989583333333334,384.0,26.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1715 | innings=1 | phase=death,7.05244122965642,2212.0,90.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1715 | innings=2 | phase=death,7.8431372549019605,1785.0,88.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1715 | innings=2 | phase=middle,5.774278215223097,381.0,31.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2193 | innings=1 | phase=death,6.871696299855838,2081.0,76.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2193 | innings=2 | phase=death,7.756410256410256,1560.0,79.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2725 | innings=1 | phase=death,7.959961868446139,2098.0,80.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2725 | innings=1 | phase=middle,4.878048780487805,328.0,30.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2725 | innings=2 | phase=death,7.81758957654723,1535.0,82.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2725 | innings=2 | phase=middle,3.519061583577713,341.0,26.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3133 | innings=1 | phase=death,7.08955223880597,536.0,43.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3133 | innings=2 | phase=death,9.254498714652955,389.0,35.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3298 | innings=1 | phase=death,7.096171802054155,2142.0,79.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3298 | innings=2 | phase=death,6.907682375726274,1549.0,94.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3298 | innings=2 | phase=middle,6.544502617801047,382.0,29.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20 | innings=1 | phase=middle,5.093833780160858,1119.0,72.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20 | innings=2 | phase=middle,5.155320555188368,1513.0,102.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=1 | phase=death,7.667804323094425,13185.0,327.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=1 | phase=middle,4.063701263042285,1821.0,123.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=2 | phase=death,8.835027365129006,8953.0,310.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=2 | phase=middle,6.592956592956593,2442.0,146.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=2 | phase=powerplay,1.7857142857142856,56.0,13.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=death,7.212622088655146,2662.0,126.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=death,7.35009671179884,2068.0,124.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,6.013363028953229,449.0,42.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=death,9.141274238227147,361.0,30.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=death,7.688022284122563,1795.0,113.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=death,7.659574468085106,1175.0,89.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,7.348242811501597,313.0,33.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,7.750342935528121,2916.0,148.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,4.6,500.0,43.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=death,10.229540918163673,2004.0,138.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,5.369127516778524,596.0,41.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=death,8.093525179856115,3336.0,150.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,5.210420841683367,499.0,46.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=death,9.339080459770114,2088.0,130.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,6.787330316742081,663.0,56.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=death,7.394002068252327,1934.0,122.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=death,9.519867549668874,1208.0,107.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,8.179419525065963,379.0,36.0,higher_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1358 | innings=1 | phase=death,22.5254394079556,2162.0,76.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1358 | innings=2 | phase=death,22.146118721461185,1752.0,78.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1533 | innings=1 | phase=death,20.3125,384.0,26.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1715 | innings=1 | phase=death,23.236889692585898,2212.0,90.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1715 | innings=2 | phase=death,20.11204481792717,1785.0,88.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1715 | innings=2 | phase=middle,12.598425196850393,381.0,31.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2193 | innings=1 | phase=death,24.69966362325805,2081.0,76.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2193 | innings=2 | phase=death,23.846153846153847,1560.0,79.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2725 | innings=1 | phase=death,25.357483317445183,2098.0,80.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2725 | innings=1 | phase=middle,14.02439024390244,328.0,30.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2725 | innings=2 | phase=death,22.149837133550488,1535.0,82.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2725 | innings=2 | phase=middle,19.06158357771261,341.0,26.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3133 | innings=1 | phase=death,17.723880597014926,536.0,43.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3133 | innings=2 | phase=death,17.223650385604113,389.0,35.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3298 | innings=1 | phase=death,23.99626517273576,2142.0,79.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3298 | innings=2 | phase=death,24.144609425435764,1549.0,94.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3298 | innings=2 | phase=middle,19.63350785340314,382.0,29.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20 | innings=1 | phase=middle,10.991957104557642,1119.0,72.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20 | innings=2 | phase=middle,16.853932584269664,1513.0,102.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=1 | phase=death,20.68259385665529,13185.0,327.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=1 | phase=middle,11.312465678198793,1821.0,123.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=2 | phase=death,19.155590304925724,8953.0,310.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=2 | phase=middle,12.817362817362818,2442.0,146.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=2 | phase=powerplay,7.142857142857142,56.0,13.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=death,21.97595792637115,2662.0,126.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=death,19.729206963249517,2068.0,124.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,13.140311804008908,449.0,42.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=death,21.329639889196674,361.0,30.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=death,20.668523676880223,1795.0,113.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=death,20.170212765957444,1175.0,89.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,14.696485623003195,313.0,33.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,20.644718792866943,2916.0,148.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,10.4,500.0,43.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=death,18.213572854291417,2004.0,138.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,13.926174496644295,596.0,41.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=death,18.974820143884894,3336.0,150.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,9.418837675350701,499.0,46.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=death,19.492337164750957,2088.0,130.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,11.161387631975868,663.0,56.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=death,21.871768355739402,1934.0,122.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=death,18.625827814569536,1208.0,107.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,11.345646437994723,379.0,36.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1358 | innings=1 | phase=death,165.77243293246994,2162.0,76.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1358 | innings=2 | phase=death,160.7876712328767,1752.0,78.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1533 | innings=1 | phase=death,160.41666666666669,384.0,26.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1715 | innings=1 | phase=death,171.06690777576853,2212.0,90.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1715 | innings=2 | phase=death,153.61344537815128,1785.0,88.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=1715 | innings=2 | phase=middle,113.6482939632546,381.0,31.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2193 | innings=1 | phase=death,179.09658817876021,2081.0,76.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2193 | innings=2 | phase=death,168.52564102564102,1560.0,79.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2725 | innings=1 | phase=death,178.836987607245,2098.0,80.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2725 | innings=1 | phase=middle,117.98780487804879,328.0,30.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2725 | innings=2 | phase=death,163.84364820846906,1535.0,82.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=2725 | innings=2 | phase=middle,144.57478005865104,341.0,26.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3133 | innings=1 | phase=death,152.7985074626866,536.0,43.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3133 | innings=2 | phase=death,132.90488431876605,389.0,35.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3298 | innings=1 | phase=death,171.28851540616245,2142.0,79.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3298 | innings=2 | phase=death,168.302130406714,1549.0,94.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,competition_innings_phase,competition=3298 | innings=2 | phase=middle,142.93193717277487,382.0,29.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20 | innings=1 | phase=middle,103.48525469168901,1119.0,72.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20 | innings=2 | phase=middle,132.65036351619298,1513.0,102.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=1 | phase=death,159.59802806219187,13185.0,327.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=1 | phase=middle,104.2833607907743,1821.0,123.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=2 | phase=death,146.38668602703004,8953.0,310.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=2 | phase=middle,110.6879606879607,2442.0,146.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_innings_phase,format=T20I | innings=2 | phase=powerplay,60.71428571428571,56.0,13.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=death,166.3786626596544,2662.0,126.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=death,149.468085106383,2068.0,124.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,110.02227171492206,449.0,42.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=death,160.66481994459835,361.0,30.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=death,162.56267409470752,1795.0,113.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=death,151.91489361702128,1175.0,89.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,126.83706070287539,313.0,33.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,155.7270233196159,2916.0,148.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,104.2,500.0,43.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=death,140.6187624750499,2004.0,138.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,119.63087248322148,596.0,41.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=death,151.13908872901678,3336.0,150.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,88.77755511022045,499.0,46.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=death,146.36015325670496,2088.0,130.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,96.83257918552036,663.0,56.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=death,167.52843846949327,1934.0,122.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=death,145.86092715231788,1208.0,107.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,combined_pressure_context,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,106.59630606860158,379.0,36.0,lower_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1358 | innings=1 | phase=death,7.400555041628122,2162.0,76.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1358 | innings=2 | phase=death,7.534246575342466,1752.0,78.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1533 | innings=1 | phase=death,5.989583333333334,384.0,26.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1715 | innings=1 | phase=death,7.05244122965642,2212.0,90.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1715 | innings=2 | phase=death,7.8431372549019605,1785.0,88.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=2193 | innings=1 | phase=death,6.871696299855838,2081.0,76.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=2193 | innings=2 | phase=death,7.756410256410256,1560.0,79.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=2725 | innings=1 | phase=death,7.959961868446139,2098.0,80.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=2725 | innings=2 | phase=death,7.81758957654723,1535.0,82.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=3133 | innings=1 | phase=death,7.08955223880597,536.0,43.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=3133 | innings=2 | phase=death,9.254498714652955,389.0,35.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=3298 | innings=1 | phase=death,7.096171802054155,2142.0,79.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=3298 | innings=2 | phase=death,6.907682375726274,1549.0,94.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_innings_phase,format=T20I | innings=1 | phase=death,7.667804323094425,13185.0,327.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_innings_phase,format=T20I | innings=2 | phase=death,8.835027365129006,8953.0,310.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=death,7.212622088655146,2662.0,126.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=death,7.35009671179884,2068.0,124.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=death,9.141274238227147,361.0,30.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=death,7.688022284122563,1795.0,113.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=death,7.659574468085106,1175.0,89.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,7.750342935528121,2916.0,148.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=death,10.229540918163673,2004.0,138.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=death,8.093525179856115,3336.0,150.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=death,9.339080459770114,2088.0,130.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=death,7.394002068252327,1934.0,122.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=death,9.519867549668874,1208.0,107.0,higher_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1358 | innings=1 | phase=death,22.5254394079556,2162.0,76.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1358 | innings=2 | phase=death,22.146118721461185,1752.0,78.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1533 | innings=1 | phase=death,20.3125,384.0,26.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1715 | innings=1 | phase=death,23.236889692585898,2212.0,90.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1715 | innings=2 | phase=death,20.11204481792717,1785.0,88.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=2193 | innings=1 | phase=death,24.69966362325805,2081.0,76.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=2193 | innings=2 | phase=death,23.846153846153847,1560.0,79.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=2725 | innings=1 | phase=death,25.357483317445183,2098.0,80.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=2725 | innings=2 | phase=death,22.149837133550488,1535.0,82.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=3133 | innings=1 | phase=death,17.723880597014926,536.0,43.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=3133 | innings=2 | phase=death,17.223650385604113,389.0,35.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=3298 | innings=1 | phase=death,23.99626517273576,2142.0,79.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=3298 | innings=2 | phase=death,24.144609425435764,1549.0,94.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_innings_phase,format=T20I | innings=1 | phase=death,20.68259385665529,13185.0,327.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_innings_phase,format=T20I | innings=2 | phase=death,19.155590304925724,8953.0,310.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=death,21.97595792637115,2662.0,126.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=death,19.729206963249517,2068.0,124.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=death,21.329639889196674,361.0,30.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=death,20.668523676880223,1795.0,113.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=death,20.170212765957444,1175.0,89.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,20.644718792866943,2916.0,148.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=death,18.213572854291417,2004.0,138.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=death,18.974820143884894,3336.0,150.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=death,19.492337164750957,2088.0,130.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=death,21.871768355739402,1934.0,122.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=death,18.625827814569536,1208.0,107.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1358 | innings=1 | phase=death,165.77243293246994,2162.0,76.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1358 | innings=2 | phase=death,160.7876712328767,1752.0,78.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1533 | innings=1 | phase=death,160.41666666666669,384.0,26.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1715 | innings=1 | phase=death,171.06690777576853,2212.0,90.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=1715 | innings=2 | phase=death,153.61344537815128,1785.0,88.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=2193 | innings=1 | phase=death,179.09658817876021,2081.0,76.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=2193 | innings=2 | phase=death,168.52564102564102,1560.0,79.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=2725 | innings=1 | phase=death,178.836987607245,2098.0,80.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=2725 | innings=2 | phase=death,163.84364820846906,1535.0,82.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=3133 | innings=1 | phase=death,152.7985074626866,536.0,43.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=3133 | innings=2 | phase=death,132.90488431876605,389.0,35.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=3298 | innings=1 | phase=death,171.28851540616245,2142.0,79.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,competition_innings_phase,competition=3298 | innings=2 | phase=death,168.302130406714,1549.0,94.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_innings_phase,format=T20I | innings=1 | phase=death,159.59802806219187,13185.0,327.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_innings_phase,format=T20I | innings=2 | phase=death,146.38668602703004,8953.0,310.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=death,166.3786626596544,2662.0,126.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=death,149.468085106383,2068.0,124.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=death,160.66481994459835,361.0,30.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=death,162.56267409470752,1795.0,113.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=death,151.91489361702128,1175.0,89.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,155.7270233196159,2916.0,148.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=death,140.6187624750499,2004.0,138.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=death,151.13908872901678,3336.0,150.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=death,146.36015325670496,2088.0,130.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=death,167.52843846949327,1934.0,122.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,death_over_context,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=death,145.86092715231788,1208.0,107.0,lower_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,competition_innings_phase,competition=1715 | innings=2 | phase=middle,5.774278215223097,381.0,31.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,competition_innings_phase,competition=2725 | innings=1 | phase=middle,4.878048780487805,328.0,30.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,competition_innings_phase,competition=2725 | innings=2 | phase=middle,3.519061583577713,341.0,26.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,competition_innings_phase,competition=3298 | innings=2 | phase=middle,6.544502617801047,382.0,29.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20 | innings=1 | phase=death,6.88,625.0,56.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20 | innings=1 | phase=middle,5.093833780160858,1119.0,72.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20 | innings=2 | phase=death,8.34386852085967,791.0,70.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20 | innings=2 | phase=middle,5.155320555188368,1513.0,102.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=1 | phase=death,7.079646017699115,1130.0,99.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=1 | phase=middle,4.063701263042285,1821.0,123.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=2 | phase=death,9.479553903345725,1076.0,108.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=2 | phase=middle,6.592956592956593,2442.0,146.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=2 | phase=powerplay,1.7857142857142856,56.0,13.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,6.013363028953229,449.0,42.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,7.348242811501597,313.0,33.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,8.571428571428571,315.0,36.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,4.6,500.0,43.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,5.369127516778524,596.0,41.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,5.210420841683367,499.0,46.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,6.787330316742081,663.0,56.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,8.179419525065963,379.0,36.0,higher_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,competition_innings_phase,competition=1715 | innings=2 | phase=middle,12.598425196850393,381.0,31.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,competition_innings_phase,competition=2725 | innings=1 | phase=middle,14.02439024390244,328.0,30.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,competition_innings_phase,competition=2725 | innings=2 | phase=middle,19.06158357771261,341.0,26.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,competition_innings_phase,competition=3298 | innings=2 | phase=middle,19.63350785340314,382.0,29.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20 | innings=1 | phase=death,17.919999999999998,625.0,56.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20 | innings=1 | phase=middle,10.991957104557642,1119.0,72.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20 | innings=2 | phase=death,18.078381795195956,791.0,70.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20 | innings=2 | phase=middle,16.853932584269664,1513.0,102.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=1 | phase=death,17.43362831858407,1130.0,99.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=1 | phase=middle,11.312465678198793,1821.0,123.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=2 | phase=death,16.07806691449814,1076.0,108.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=2 | phase=middle,12.817362817362818,2442.0,146.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=2 | phase=powerplay,7.142857142857142,56.0,13.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,13.140311804008908,449.0,42.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,14.696485623003195,313.0,33.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,19.047619047619047,315.0,36.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,10.4,500.0,43.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,13.926174496644295,596.0,41.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,9.418837675350701,499.0,46.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,11.161387631975868,663.0,56.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,11.345646437994723,379.0,36.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,competition_innings_phase,competition=1715 | innings=2 | phase=middle,113.6482939632546,381.0,31.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,competition_innings_phase,competition=2725 | innings=1 | phase=middle,117.98780487804879,328.0,30.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,competition_innings_phase,competition=2725 | innings=2 | phase=middle,144.57478005865104,341.0,26.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,competition_innings_phase,competition=3298 | innings=2 | phase=middle,142.93193717277487,382.0,29.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20 | innings=1 | phase=death,137.92,625.0,56.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20 | innings=1 | phase=middle,103.48525469168901,1119.0,72.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20 | innings=2 | phase=death,136.1567635903919,791.0,70.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20 | innings=2 | phase=middle,132.65036351619298,1513.0,102.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=1 | phase=death,139.64601769911505,1130.0,99.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=1 | phase=middle,104.2833607907743,1821.0,123.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=2 | phase=death,124.5353159851301,1076.0,108.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=2 | phase=middle,110.6879606879607,2442.0,146.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_innings_phase,format=T20I | innings=2 | phase=powerplay,60.71428571428571,56.0,13.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,110.02227171492206,449.0,42.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,126.83706070287539,313.0,33.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=death,142.22222222222223,315.0,36.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,104.2,500.0,43.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,119.63087248322148,596.0,41.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,88.77755511022045,499.0,46.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,96.83257918552036,663.0,56.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,early_collapse_context,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,106.59630606860158,379.0,36.0,lower_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=1 | phase=middle,3.7839248434238,3832.0,107.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=1 | phase=powerplay,3.7537537537537538,2664.0,83.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=2 | phase=middle,4.722738126824091,3769.0,102.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=2 | phase=powerplay,4.241741741741742,2664.0,71.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=1 | phase=middle,4.595879556259905,631.0,27.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=1 | phase=powerplay,4.468085106382979,470.0,23.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=2 | phase=middle,4.3478260869565215,575.0,34.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=2 | phase=powerplay,4.282655246252676,467.0,30.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1595 | innings=1 | phase=middle,3.439153439153439,378.0,17.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1595 | innings=2 | phase=middle,3.1914893617021276,376.0,17.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1608 | innings=1 | phase=middle,4.232804232804233,378.0,20.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1608 | innings=2 | phase=middle,3.7037037037037033,378.0,19.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=1 | phase=middle,4.610492845786964,3774.0,109.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=1 | phase=powerplay,3.308270676691729,2660.0,91.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=2 | phase=middle,4.280821917808219,3504.0,109.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=2 | phase=powerplay,4.5038167938931295,2620.0,95.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=1 | phase=middle,4.4589450788472,3678.0,103.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=1 | phase=powerplay,4.2611415168100075,2558.0,79.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=2 | phase=middle,4.756413952147593,3469.0,107.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=2 | phase=powerplay,4.264475743348982,2556.0,81.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=1 | phase=middle,4.5945197896484915,3613.0,94.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=1 | phase=powerplay,3.8345864661654137,2660.0,76.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=2 | phase=middle,4.274764150943397,3392.0,101.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=2 | phase=powerplay,4.004711425206125,2547.0,77.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=1 | phase=middle,5.689277899343545,914.0,44.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=1 | phase=powerplay,3.7845705967976713,687.0,35.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=2 | phase=middle,3.8777908343125738,851.0,40.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=2 | phase=powerplay,4.888888888888889,675.0,36.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3159 | innings=1 | phase=middle,4.232804232804233,378.0,22.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3159 | innings=2 | phase=middle,7.854984894259818,331.0,16.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3288 | innings=1 | phase=middle,4.497354497354497,378.0,15.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3288 | innings=2 | phase=middle,3.488372093023256,344.0,17.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=1 | phase=middle,4.250681198910082,3670.0,103.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=1 | phase=powerplay,4.085528827796869,2619.0,73.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=2 | phase=middle,4.6127067014795475,3447.0,103.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=2 | phase=powerplay,4.503464203233257,2598.0,84.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=1 | phase=middle,4.71125293622302,22563.0,383.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=1 | phase=powerplay,4.665302191187093,16612.0,310.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=2 | phase=middle,5.040086038326164,20456.0,358.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=2 | phase=powerplay,4.951486697965572,15975.0,305.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=middle,4.380502469400902,4657.0,148.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=powerplay,4.483900090279867,3323.0,132.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,5.144081924267683,4199.0,150.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=powerplay,4.857055026129727,3253.0,134.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=middle,3.3670033670033668,594.0,36.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=powerplay,4.13625304136253,411.0,30.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=2 | phase=middle,4.035087719298246,570.0,32.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=2 | phase=powerplay,4.166666666666666,432.0,22.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=middle,4.477611940298507,3149.0,125.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=powerplay,4.875886524822695,2256.0,109.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,4.913916786226686,2788.0,115.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=powerplay,5.025593299208935,2149.0,98.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,4.894962267999184,4903.0,183.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=powerplay,4.842219804134929,3676.0,143.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,4.986818980667838,4552.0,174.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=powerplay,5.17289850998032,3557.0,155.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,4.984149348362099,5678.0,176.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=powerplay,4.350877192982456,4275.0,133.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,5.2507374631268435,5085.0,163.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=powerplay,4.852904199145084,3977.0,129.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=middle,4.747596153846153,3328.0,136.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=powerplay,5.132382892057027,2455.0,121.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,4.969366916269571,2938.0,121.0,higher_is_better,bowler
+bowler_wickets_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=powerplay,5.104602510460251,2390.0,104.0,higher_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=1 | phase=middle,14.926931106471816,3832.0,107.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=1 | phase=powerplay,19.48198198198198,2664.0,83.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=2 | phase=middle,14.964181480498805,3769.0,102.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=2 | phase=powerplay,19.48198198198198,2664.0,71.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=1 | phase=middle,10.935023771790808,631.0,27.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=1 | phase=powerplay,15.53191489361702,470.0,23.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=2 | phase=middle,11.130434782608695,575.0,34.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=2 | phase=powerplay,15.631691648822269,467.0,30.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1595 | innings=1 | phase=middle,14.814814814814813,378.0,17.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1595 | innings=2 | phase=middle,14.627659574468085,376.0,17.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1608 | innings=1 | phase=middle,12.16931216931217,378.0,20.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1608 | innings=2 | phase=middle,14.02116402116402,378.0,19.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=1 | phase=middle,15.73926868044515,3774.0,109.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=1 | phase=powerplay,22.669172932330827,2660.0,91.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=2 | phase=middle,16.18150684931507,3504.0,109.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=2 | phase=powerplay,22.786259541984734,2620.0,95.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=1 | phase=middle,16.802610114192497,3678.0,103.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=1 | phase=powerplay,23.61219702892885,2558.0,79.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=2 | phase=middle,17.007783222830785,3469.0,107.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=2 | phase=powerplay,26.447574334898277,2556.0,81.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=1 | phase=middle,17.243288126210903,3613.0,94.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=1 | phase=powerplay,24.849624060150376,2660.0,76.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=2 | phase=middle,19.015330188679243,3392.0,101.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=2 | phase=powerplay,25.206124852767964,2547.0,77.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=1 | phase=middle,10.065645514223196,914.0,44.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=1 | phase=powerplay,18.19505094614265,687.0,35.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=2 | phase=middle,11.985898942420683,851.0,40.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=2 | phase=powerplay,17.185185185185183,675.0,36.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3159 | innings=1 | phase=middle,13.492063492063492,378.0,22.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3159 | innings=2 | phase=middle,8.157099697885197,331.0,16.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3288 | innings=1 | phase=middle,9.523809523809524,378.0,15.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3288 | innings=2 | phase=middle,11.046511627906977,344.0,17.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=1 | phase=middle,18.855585831062672,3670.0,103.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=1 | phase=powerplay,26.613211149293626,2619.0,73.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=2 | phase=middle,18.94400928343487,3447.0,103.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=2 | phase=powerplay,27.29022324865281,2598.0,84.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=1 | phase=middle,14.692195186810263,22563.0,383.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=1 | phase=powerplay,20.105947507825668,16612.0,310.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=2 | phase=middle,14.655846695346108,20456.0,358.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=2 | phase=powerplay,20.67605633802817,15975.0,305.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=middle,13.570968434614558,4657.0,148.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=powerplay,18.146253385495033,3323.0,132.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,13.193617527982854,4199.0,150.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=powerplay,18.628957885029205,3253.0,134.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=middle,16.161616161616163,594.0,36.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=powerplay,18.734793187347933,411.0,30.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=2 | phase=middle,14.210526315789473,570.0,32.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=2 | phase=powerplay,16.435185185185187,432.0,22.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=middle,14.957129247380122,3149.0,125.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=powerplay,20.921985815602838,2256.0,109.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,14.813486370157818,2788.0,115.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=powerplay,20.614239181014426,2149.0,98.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,14.746073832347543,4903.0,183.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=powerplay,20.429815016322088,3676.0,143.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,14.630931458699473,4552.0,174.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=powerplay,21.338206353668824,3557.0,155.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,14.107079957731598,5678.0,176.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=powerplay,19.953216374269005,4275.0,133.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,14.749262536873156,5085.0,163.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=powerplay,20.492833794317324,3977.0,129.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=middle,16.676682692307693,3328.0,136.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=powerplay,22.403258655804482,2455.0,121.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,16.541865214431585,2938.0,121.0,lower_is_better,bowler
+flagged_boundaries_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=powerplay,24.01673640167364,2390.0,104.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=1 | phase=middle,130.11482254697287,3832.0,107.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=1 | phase=powerplay,123.76126126126125,2664.0,83.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=2 | phase=middle,129.76916954099232,3769.0,102.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1358 | innings=2 | phase=powerplay,120.04504504504506,2664.0,71.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=1 | phase=middle,118.70047543581617,631.0,27.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=1 | phase=powerplay,117.65957446808511,470.0,23.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=2 | phase=middle,114.78260869565217,575.0,34.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1533 | innings=2 | phase=powerplay,110.0642398286938,467.0,30.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1595 | innings=1 | phase=middle,139.94708994708995,378.0,17.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1595 | innings=2 | phase=middle,134.04255319148936,376.0,17.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1608 | innings=1 | phase=middle,126.98412698412697,378.0,20.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1608 | innings=2 | phase=middle,132.8042328042328,378.0,19.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=1 | phase=middle,137.33439321674615,3774.0,109.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=1 | phase=powerplay,138.83458646616543,2660.0,91.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=2 | phase=middle,137.35730593607306,3504.0,109.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=1715 | innings=2 | phase=powerplay,136.64122137404578,2620.0,95.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=1 | phase=middle,142.95812941816203,3678.0,103.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=1 | phase=powerplay,143.4714620797498,2558.0,79.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=2 | phase=middle,140.76102623234362,3469.0,107.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2193 | innings=2 | phase=powerplay,155.0469483568075,2556.0,81.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=1 | phase=middle,141.51674508718517,3613.0,94.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=1 | phase=powerplay,153.08270676691728,2660.0,76.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=2 | phase=middle,149.9115566037736,3392.0,101.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=2725 | innings=2 | phase=powerplay,151.27601099332549,2547.0,77.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=1 | phase=middle,111.48796498905908,914.0,44.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=1 | phase=powerplay,124.0174672489083,687.0,35.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=2 | phase=middle,120.56404230317274,851.0,40.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3133 | innings=2 | phase=powerplay,121.62962962962962,675.0,36.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3159 | innings=1 | phase=middle,130.68783068783068,378.0,22.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3159 | innings=2 | phase=middle,96.37462235649546,331.0,16.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3288 | innings=1 | phase=middle,107.67195767195767,378.0,15.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3288 | innings=2 | phase=middle,116.56976744186048,344.0,17.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=1 | phase=middle,149.97275204359673,3670.0,103.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=1 | phase=powerplay,157.4646811760214,2619.0,73.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=2 | phase=middle,149.11517261386712,3447.0,103.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,competition_innings_phase,competition=3298 | innings=2 | phase=powerplay,162.2016936104696,2598.0,84.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=1 | phase=middle,131.64029605992113,22563.0,383.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=1 | phase=powerplay,128.4131952805201,16612.0,310.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=2 | phase=middle,130.2796245600313,20456.0,358.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_innings_phase,format=T20I | innings=2 | phase=powerplay,131.58685446009392,15975.0,305.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=middle,126.79836804809963,4657.0,148.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=1 | phase=powerplay,120.88474270237737,3323.0,132.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=middle,123.52941176470588,4199.0,150.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022 | innings=2 | phase=powerplay,121.45711650783892,3253.0,134.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=middle,141.24579124579125,594.0,36.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=1 | phase=powerplay,115.57177615571777,411.0,30.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=2 | phase=middle,135.26315789473685,570.0,32.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2022/23 | innings=2 | phase=powerplay,110.87962962962963,432.0,22.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=middle,131.31152746903777,3149.0,125.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=1 | phase=powerplay,130.67375886524823,2256.0,109.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=middle,128.90961262553802,2788.0,115.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2023 | innings=2 | phase=powerplay,130.89809213587716,2149.0,98.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=middle,130.79747093616155,4903.0,183.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=1 | phase=powerplay,127.80195865070729,3676.0,143.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=middle,129.6353251318102,4552.0,174.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2024 | innings=2 | phase=powerplay,131.90891200449818,3557.0,155.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=middle,129.9753434307855,5678.0,176.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=1 | phase=powerplay,130.33918128654972,4275.0,133.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=middle,130.10816125860373,5085.0,163.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2025 | innings=2 | phase=powerplay,132.2604978627106,3977.0,129.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=middle,141.13581730769232,3328.0,136.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=1 | phase=powerplay,137.0672097759674,2455.0,121.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=middle,140.50374404356705,2938.0,121.0,lower_is_better,bowler
+source_runs_field_per_100_candidate_legal_balls,ordinary_baseline,format_season_innings_phase,format=T20I | season=2026 | innings=2 | phase=powerplay,149.2468619246862,2390.0,104.0,lower_is_better,bowler

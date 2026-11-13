@@ -1,0 +1,35 @@
+[
+  {
+    "inherit_missing_second_innings_revision": true,
+    "early_collapse_fraction": 0.4,
+    "equivalent_standard_20_over_cutoff": 8,
+    "early_collapse_pressure_records": 5811,
+    "early_collapse_innings": 82,
+    "matches_with_early_collapse": 82,
+    "death_phase_pressure_records": 43600,
+    "overlapping_pressure_records": 1788,
+    "combined_pressure_records_without_double_counting": 47623
+  },
+  {
+    "inherit_missing_second_innings_revision": true,
+    "early_collapse_fraction": 0.5,
+    "equivalent_standard_20_over_cutoff": 10,
+    "early_collapse_pressure_records": 11096,
+    "early_collapse_innings": 175,
+    "matches_with_early_collapse": 173,
+    "death_phase_pressure_records": 43600,
+    "overlapping_pressure_records": 3822,
+    "combined_pressure_records_without_double_counting": 50874
+  },
+  {
+    "inherit_missing_second_innings_revision": true,
+    "early_collapse_fraction": 0.6,
+    "equivalent_standard_20_over_cutoff": 12,
+    "early_collapse_pressure_records": 19649,
+    "early_collapse_innings": 346,
+    "matches_with_early_collapse": 324,
+    "death_phase_pressure_records": 43600,
+    "overlapping_pressure_records": 8323,
+    "combined_pressure_records_without_double_counting": 54926
+  }
+]

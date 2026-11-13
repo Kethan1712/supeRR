@@ -1,0 +1,464 @@
+{
+  "analysis": "independent full-pipeline comparison of competition population definitions",
+  "primary_scope_name": "IPL 2022 onward + T20 Internationals",
+  "expanded_scope_name": "All supplied T20-format competitions + T20 Internationals",
+  "source_counts": {
+    "competitions_rows": 141,
+    "matches_rows": 883,
+    "ball_by_ball_rows": 200999,
+    "matches_with_ball_by_ball": 867
+  },
+  "primary_scope": {
+    "competition_ids": 136,
+    "matches": 853,
+    "matches_with_ball_by_ball": 837,
+    "matches_without_ball_by_ball": 16,
+    "ball_by_ball_rows": 194014
+  },
+  "expanded_scope": {
+    "competition_ids": 138,
+    "matches": 883,
+    "matches_with_ball_by_ball": 867,
+    "matches_without_ball_by_ball": 16,
+    "ball_by_ball_rows": 200999
+  },
+  "additional_competitions": [
+    {
+      "comp_id": 2670,
+      "comp_name": "Mens T20 Emerging Teams Asia Cup 2024",
+      "match_format": "T20",
+      "season": "2024",
+      "match_rows": 15,
+      "matches_with_ball_by_ball": 15,
+      "matches_without_ball_by_ball": 0
+    },
+    {
+      "comp_id": 3289,
+      "comp_name": "Asia Cup Rising Stars 2025",
+      "match_format": "T20",
+      "season": "2025",
+      "match_rows": 15,
+      "matches_with_ball_by_ball": 15,
+      "matches_without_ball_by_ball": 0
+    }
+  ],
+  "additional_match_rows": 30,
+  "additional_delivery_rows": 6985,
+  "batters": {
+    "role": "batter",
+    "primary_top10": [
+      {
+        "rank": 1,
+        "player_id": 2533,
+        "player_name": "Najibullah Zadran",
+        "score": 87.624479
+      },
+      {
+        "rank": 2,
+        "player_id": 2984,
+        "player_name": "Sikandar Raza",
+        "score": 85.090625
+      },
+      {
+        "rank": 3,
+        "player_id": 37052,
+        "player_name": "Naman Dhir",
+        "score": 82.688542
+      },
+      {
+        "rank": 4,
+        "player_id": 4708,
+        "player_name": "Rinku Singh",
+        "score": 81.70625
+      },
+      {
+        "rank": 5,
+        "player_id": 20702,
+        "player_name": "Tristan Stubbs",
+        "score": 80.785937
+      },
+      {
+        "rank": 6,
+        "player_id": 2680,
+        "player_name": "Nurul Hasan",
+        "score": 78.347396
+      },
+      {
+        "rank": 7,
+        "player_id": 4703,
+        "player_name": "Rishabh Pant",
+        "score": 76.308333
+      },
+      {
+        "rank": 8,
+        "player_id": 20006,
+        "player_name": "Ramandeep Singh",
+        "score": 75.186979
+      },
+      {
+        "rank": 9,
+        "player_id": 2485,
+        "player_name": "Babar Azam",
+        "score": 74.925521
+      },
+      {
+        "rank": 10,
+        "player_id": 4853,
+        "player_name": "Glenn Phillips",
+        "score": 74.672917
+      }
+    ],
+    "expanded_top10": [
+      {
+        "rank": 1,
+        "player_id": 2533,
+        "player_name": "Najibullah Zadran",
+        "score": 87.731959
+      },
+      {
+        "rank": 2,
+        "player_id": 2984,
+        "player_name": "Sikandar Raza",
+        "score": 85.126804
+      },
+      {
+        "rank": 3,
+        "player_id": 4708,
+        "player_name": "Rinku Singh",
+        "score": 81.774227
+      },
+      {
+        "rank": 4,
+        "player_id": 20702,
+        "player_name": "Tristan Stubbs",
+        "score": 81.123196
+      },
+      {
+        "rank": 5,
+        "player_id": 37052,
+        "player_name": "Naman Dhir",
+        "score": 80.513918
+      },
+      {
+        "rank": 6,
+        "player_id": 2680,
+        "player_name": "Nurul Hasan",
+        "score": 78.821134
+      },
+      {
+        "rank": 7,
+        "player_id": 4703,
+        "player_name": "Rishabh Pant",
+        "score": 76.958763
+      },
+      {
+        "rank": 8,
+        "player_id": 4853,
+        "player_name": "Glenn Phillips",
+        "score": 74.930928
+      },
+      {
+        "rank": 9,
+        "player_id": 2485,
+        "player_name": "Babar Azam",
+        "score": 74.854124
+      },
+      {
+        "rank": 10,
+        "player_id": 4391,
+        "player_name": "Liam Livingstone",
+        "score": 73.420619
+      }
+    ],
+    "top10_overlap_count": 9,
+    "top10_overlap_out_of_10": "9/10",
+    "players_entering_expanded_top10": [
+      "Liam Livingstone"
+    ],
+    "players_leaving_primary_top10": [
+      "Ramandeep Singh"
+    ],
+    "shared_player_rank_changes": [
+      {
+        "role": "batter",
+        "player_id": 4708,
+        "player_name": "Rinku Singh",
+        "status": "retained",
+        "primary_rank": 4,
+        "expanded_rank": 3,
+        "primary_score": 81.70625,
+        "expanded_score": 81.7742268041237,
+        "rank_change_expanded_minus_primary": -1,
+        "score_change_expanded_minus_primary": 0.06797680412370255
+      },
+      {
+        "role": "batter",
+        "player_id": 20702,
+        "player_name": "Tristan Stubbs",
+        "status": "retained",
+        "primary_rank": 5,
+        "expanded_rank": 4,
+        "primary_score": 80.78593749999999,
+        "expanded_score": 81.12319587628865,
+        "rank_change_expanded_minus_primary": -1,
+        "score_change_expanded_minus_primary": 0.3372583762886592
+      },
+      {
+        "role": "batter",
+        "player_id": 37052,
+        "player_name": "Naman Dhir",
+        "status": "retained",
+        "primary_rank": 3,
+        "expanded_rank": 5,
+        "primary_score": 82.68854166666665,
+        "expanded_score": 80.5139175257732,
+        "rank_change_expanded_minus_primary": 2,
+        "score_change_expanded_minus_primary": -2.1746241408934566
+      },
+      {
+        "role": "batter",
+        "player_id": 4853,
+        "player_name": "Glenn Phillips",
+        "status": "retained",
+        "primary_rank": 10,
+        "expanded_rank": 8,
+        "primary_score": 74.67291666666665,
+        "expanded_score": 74.93092783505155,
+        "rank_change_expanded_minus_primary": -2,
+        "score_change_expanded_minus_primary": 0.2580111683848969
+      }
+    ]
+  },
+  "bowlers": {
+    "role": "bowler",
+    "primary_top10": [
+      {
+        "rank": 1,
+        "player_id": 781,
+        "player_name": "Sunil Narine",
+        "score": 85.967949
+      },
+      {
+        "rank": 2,
+        "player_id": 6643,
+        "player_name": "Hasan Mahmud",
+        "score": 83.817949
+      },
+      {
+        "rank": 3,
+        "player_id": 4722,
+        "player_name": "Rashid Khan",
+        "score": 82.537179
+      },
+      {
+        "rank": 4,
+        "player_id": 2417,
+        "player_name": "Akeal Hosein",
+        "score": 80.975641
+      },
+      {
+        "rank": 5,
+        "player_id": 2436,
+        "player_name": "Dasun Shanaka",
+        "score": 80.285256
+      },
+      {
+        "rank": 6,
+        "player_id": 5940,
+        "player_name": "Riley Meredith",
+        "score": 79.433974
+      },
+      {
+        "rank": 7,
+        "player_id": 2636,
+        "player_name": "Adam Zampa",
+        "score": 79.164103
+      },
+      {
+        "rank": 8,
+        "player_id": 7312,
+        "player_name": "Nandre Burger",
+        "score": 78.763462
+      },
+      {
+        "rank": 9,
+        "player_id": 3641,
+        "player_name": "Ben Dwarshuis",
+        "score": 77.6
+      },
+      {
+        "rank": 10,
+        "player_id": 6161,
+        "player_name": "Rahul Chahar",
+        "score": 76.669231
+      }
+    ],
+    "expanded_top10": [
+      {
+        "rank": 1,
+        "player_id": 781,
+        "player_name": "Sunil Narine",
+        "score": 85.883951
+      },
+      {
+        "rank": 2,
+        "player_id": 5750,
+        "player_name": "Ehsan Khan",
+        "score": 85.42716
+      },
+      {
+        "rank": 3,
+        "player_id": 6643,
+        "player_name": "Hasan Mahmud",
+        "score": 83.282716
+      },
+      {
+        "rank": 4,
+        "player_id": 4722,
+        "player_name": "Rashid Khan",
+        "score": 82.407407
+      },
+      {
+        "rank": 5,
+        "player_id": 2436,
+        "player_name": "Dasun Shanaka",
+        "score": 80.511111
+      },
+      {
+        "rank": 6,
+        "player_id": 2417,
+        "player_name": "Akeal Hosein",
+        "score": 80.448148
+      },
+      {
+        "rank": 7,
+        "player_id": 7327,
+        "player_name": "Rasikh Salam",
+        "score": 79.759259
+      },
+      {
+        "rank": 8,
+        "player_id": 5940,
+        "player_name": "Riley Meredith",
+        "score": 79.475309
+      },
+      {
+        "rank": 9,
+        "player_id": 2636,
+        "player_name": "Adam Zampa",
+        "score": 78.9
+      },
+      {
+        "rank": 10,
+        "player_id": 7312,
+        "player_name": "Nandre Burger",
+        "score": 78.424074
+      }
+    ],
+    "top10_overlap_count": 8,
+    "top10_overlap_out_of_10": "8/10",
+    "players_entering_expanded_top10": [
+      "Ehsan Khan",
+      "Rasikh Salam"
+    ],
+    "players_leaving_primary_top10": [
+      "Ben Dwarshuis",
+      "Rahul Chahar"
+    ],
+    "shared_player_rank_changes": [
+      {
+        "role": "bowler",
+        "player_id": 6643,
+        "player_name": "Hasan Mahmud",
+        "status": "retained",
+        "primary_rank": 2,
+        "expanded_rank": 3,
+        "primary_score": 83.81794871794871,
+        "expanded_score": 83.28271604938271,
+        "rank_change_expanded_minus_primary": 1,
+        "score_change_expanded_minus_primary": -0.535232668565996
+      },
+      {
+        "role": "bowler",
+        "player_id": 4722,
+        "player_name": "Rashid Khan",
+        "status": "retained",
+        "primary_rank": 3,
+        "expanded_rank": 4,
+        "primary_score": 82.53717948717947,
+        "expanded_score": 82.4074074074074,
+        "rank_change_expanded_minus_primary": 1,
+        "score_change_expanded_minus_primary": -0.12977207977206717
+      },
+      {
+        "role": "bowler",
+        "player_id": 2417,
+        "player_name": "Akeal Hosein",
+        "status": "retained",
+        "primary_rank": 4,
+        "expanded_rank": 6,
+        "primary_score": 80.97564102564101,
+        "expanded_score": 80.44814814814815,
+        "rank_change_expanded_minus_primary": 2,
+        "score_change_expanded_minus_primary": -0.5274928774928611
+      },
+      {
+        "role": "bowler",
+        "player_id": 5940,
+        "player_name": "Riley Meredith",
+        "status": "retained",
+        "primary_rank": 6,
+        "expanded_rank": 8,
+        "primary_score": 79.43397435897435,
+        "expanded_score": 79.4753086419753,
+        "rank_change_expanded_minus_primary": 2,
+        "score_change_expanded_minus_primary": 0.04133428300094977
+      },
+      {
+        "role": "bowler",
+        "player_id": 2636,
+        "player_name": "Adam Zampa",
+        "status": "retained",
+        "primary_rank": 7,
+        "expanded_rank": 9,
+        "primary_score": 79.16410256410256,
+        "expanded_score": 78.89999999999999,
+        "rank_change_expanded_minus_primary": 2,
+        "score_change_expanded_minus_primary": -0.26410256410257205
+      },
+      {
+        "role": "bowler",
+        "player_id": 7312,
+        "player_name": "Nandre Burger",
+        "status": "retained",
+        "primary_rank": 8,
+        "expanded_rank": 10,
+        "primary_score": 78.76346153846154,
+        "expanded_score": 78.42407407407407,
+        "rank_change_expanded_minus_primary": 2,
+        "score_change_expanded_minus_primary": -0.339387464387471
+      }
+    ]
+  },
+  "commands": {
+    "primary": [
+      "/opt/pyvenv/bin/python",
+      "/mnt/data/superr_expanded_audit/SupeRR_Selector_Season_2_Final_Complete/main.py",
+      "--audit-rankings",
+      "--scope",
+      "ipl_t20i",
+      "--data-dir",
+      "/mnt/data/superr_expanded_audit/SupeRR_Selector_Season_2_Final_Complete/data"
+    ],
+    "expanded": [
+      "/opt/pyvenv/bin/python",
+      "/mnt/data/superr_expanded_audit/SupeRR_Selector_Season_2_Final_Complete/main.py",
+      "--audit-rankings",
+      "--scope",
+      "all_supplied_t20_t20i",
+      "--data-dir",
+      "/mnt/data/superr_expanded_audit/SupeRR_Selector_Season_2_Final_Complete/data"
+    ],
+    "invocation": "python run_scope_comparison.py"
+  }
+}

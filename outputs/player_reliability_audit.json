@@ -1,0 +1,54 @@
+{
+  "module": "player_reliability",
+  "purpose": "Produce sample-size-adjusted peer-relative performance and match-to-match consistency evidence; no composite ranking is created.",
+  "prior_strengths_opportunities": [
+    30,
+    60,
+    100
+  ],
+  "primary_comparison_prior_for_sorting_only": 60,
+  "match_prior_opportunities": 12,
+  "shrinkage_method": "Posterior-style rate = (observed numerator + prior opportunities * matched peer rate) / (matched opportunities + prior opportunities). Reported relative difference is direction-adjusted versus the same peer rate.",
+  "match_consistency_method": "Each player-match metric is shrunk toward its context-matched peer rate using the configured match prior. Consistency is described by mean/median adjusted match performance, dispersion, and positive/negative match shares.",
+  "batting": {
+    "match_metric_rows": 80787,
+    "matched_rows": 80673,
+    "unmatched_rows": 114,
+    "matched_row_pct": 99.86,
+    "all_opportunities": 715182,
+    "matched_opportunities": 714666,
+    "missing_dismissed_player_ids": 2,
+    "non_striker_dismissals": 426,
+    "dismissal_only_context_rows": 59,
+    "players_in_reliability_output": 824,
+    "match_rows_with_baseline": 69378,
+    "metrics": [
+      "recorded_runs_per_100_balls",
+      "boundaries_per_100_balls",
+      "dismissals_per_100_balls"
+    ]
+  },
+  "bowling": {
+    "match_metric_rows": 51806,
+    "matched_rows": 51734,
+    "unmatched_rows": 72,
+    "matched_row_pct": 99.86,
+    "all_opportunities": 475248,
+    "matched_opportunities": 474876,
+    "players_in_reliability_output": 596,
+    "match_rows_with_baseline": 42910,
+    "metrics": [
+      "bowler_wickets_per_100_candidate_legal_balls",
+      "flagged_boundaries_per_100_candidate_legal_balls"
+    ],
+    "excluded_metric": "source_runs_field_per_100_candidate_legal_balls (incomplete bowler extras)"
+  },
+  "limitations": [
+    "A fixed prior-opportunity grid is a transparent shrinkage sensitivity analysis, not a fitted empirical-Bayes prior.",
+    "Match consistency is computed only for match-context rows with a supported peer baseline.",
+    "A positive match share does not by itself establish reliability; match counts and opportunity coverage must also be considered.",
+    "Bowling early-collapse context describes bowling against a batting side that has lost five wickets early; it is not automatically pressure on the bowler.",
+    "No combined composite rating, eligibility threshold, or top-10 ranking is produced by this module."
+  ],
+  "rankings_created": false
+}

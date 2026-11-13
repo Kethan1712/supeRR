@@ -1,0 +1,18 @@
+SUPERR SELECTOR FRONTEND - COPY INSTRUCTIONS
+
+1. Download and extract SupeRR_Selector_Frontend.zip.
+2. Copy the extracted folder named `frontend` into the root of your existing
+   SupeRR_Selector_Season_2_Final_Complete project.
+3. The `frontend` folder must be beside `outputs`, `data`, `src`, and `main.py`.
+4. On Windows, double-click frontend\run_windows.bat.
+5. On macOS/Linux, run:
+       cd frontend
+       chmod +x run_mac_linux.sh
+       ./run_mac_linux.sh
+6. Open the local URL printed by Streamlit, normally http://localhost:8501.
+
+First-time dependency installation requires an internet connection.
+Keep the terminal open while using the dashboard. Press Ctrl+C there to stop it.
+
+The frontend is read-only and loads the existing outputs/*.csv and outputs/*.json.
+It does not recalculate or edit the official rankings.

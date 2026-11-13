@@ -1,0 +1,77 @@
+{
+  "method": "Drop all records with recorded runs equal to 4 or 6 but neither boundary flag set, then fully recompute context-matched peer baselines, reliability and rankings. This is a conservative whole-record deletion stress test; it is not a correction of missing flags.",
+  "suspect_records": 23,
+  "suspect_recorded_runs_breakdown": {
+    "4": 20,
+    "6": 3
+  },
+  "primary_scope_matches": 853,
+  "remaining_delivery_records": 193991,
+  "removed_delivery_records": 23,
+  "baseline_coverage_after_deletion": {
+    "batting_pct": 99.76,
+    "bowling_pct": 99.75
+  },
+  "batters": {
+    "primary_names": [
+      "Najibullah Zadran",
+      "Sikandar Raza",
+      "Naman Dhir",
+      "Rinku Singh",
+      "Tristan Stubbs",
+      "Nurul Hasan",
+      "Rishabh Pant",
+      "Ramandeep Singh",
+      "Babar Azam",
+      "Glenn Phillips"
+    ],
+    "alternative_names": [
+      "Najibullah Zadran",
+      "Sikandar Raza",
+      "Naman Dhir",
+      "Rinku Singh",
+      "Tristan Stubbs",
+      "Nurul Hasan",
+      "Rishabh Pant",
+      "Ramandeep Singh",
+      "Babar Azam",
+      "Glenn Phillips"
+    ],
+    "top10_overlap": 10,
+    "unchanged_rank_order": true,
+    "entered": [],
+    "left": []
+  },
+  "bowlers": {
+    "primary_names": [
+      "Sunil Narine",
+      "Hasan Mahmud",
+      "Rashid Khan",
+      "Akeal Hosein",
+      "Dasun Shanaka",
+      "Riley Meredith",
+      "Adam Zampa",
+      "Nandre Burger",
+      "Ben Dwarshuis",
+      "Rahul Chahar"
+    ],
+    "alternative_names": [
+      "Sunil Narine",
+      "Hasan Mahmud",
+      "Rashid Khan",
+      "Akeal Hosein",
+      "Dasun Shanaka",
+      "Riley Meredith",
+      "Adam Zampa",
+      "Nandre Burger",
+      "Ben Dwarshuis",
+      "Rahul Chahar"
+    ],
+    "top10_overlap": 10,
+    "unchanged_rank_order": true,
+    "entered": [],
+    "left": []
+  },
+  "ranking_recomputed": true,
+  "primary_rankings_overwritten": false
+}

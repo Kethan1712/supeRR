@@ -1,0 +1,8 @@
+scenario,batter_top10_overlap_with_primary,bowler_top10_overlap_with_primary,batter_candidates,bowler_candidates,performance_weight,consistency_weight
+primary,10,10,97,162,0.7,0.30000000000000004
+equal_metrics,9,8,97,162,0.7,0.30000000000000004
+runs_and_wickets_emphasis,10,9,97,162,0.7,0.30000000000000004
+survival_and_boundary_control,8,8,97,162,0.7,0.30000000000000004
+boundary_emphasis,10,9,97,162,0.7,0.30000000000000004
+consistency_heavier,10,10,97,162,0.6,0.4
+performance_heavier,10,9,97,162,0.8,0.19999999999999996

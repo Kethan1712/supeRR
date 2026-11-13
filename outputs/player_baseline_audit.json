@@ -1,0 +1,139 @@
+{
+  "module": "player_baselines",
+  "purpose": "Compare pressure and ordinary performance with context-matched peer averages, then compare the player's relative standing in pressure contexts with their own ordinary standing.",
+  "method": {
+    "league_average": "Opportunity-weighted pooled rate across all players in the selected peer cohort, including the subject player.",
+    "peer_comparator": "Opportunity-weighted pooled rate among other players (leave-one-player-out); this is used for relative-performance calculations to avoid self-benchmarking.",
+    "peer_scope_priority": [
+      "competition_innings_phase",
+      "format_season_innings_phase",
+      "format_innings_phase"
+    ],
+    "primary_peer_support_requirement": {
+      "other_player_opportunities": 300,
+      "other_players": 8
+    },
+    "format_wide_fallback_support_requirement": {
+      "other_player_opportunities": 50,
+      "other_players": 3
+    },
+    "innings_phase": "Powerplay is first 30% of allocated overs; death is final 25%; remaining overs are middle. Standard 20-over phases are 1-6, 7-15, 16-20.",
+    "relative_performance": "For higher-is-better metrics, (player rate / peer rate - 1) * 100. For lower-is-better metrics, (1 - player rate / peer rate) * 100. Positive means better than peer average.",
+    "relative_change_vs_ordinary": "Pressure relative-performance percentage minus the same player's ordinary relative-performance percentage. This compares league-relative standing, not raw rates across different phases.",
+    "raw_player_rate_caveat": "Player pooled rate and peer weighted rate are descriptive; context-adjusted relative-performance fields should be used for cross-phase interpretation."
+  },
+  "metric_definitions": {
+    "batting": [
+      {
+        "metric": "recorded_runs_per_100_balls",
+        "numerator": "recorded_runs",
+        "denominator": "balls_faced",
+        "scale": 100.0,
+        "direction": "higher_is_better",
+        "rating_eligible": true,
+        "interpretation": "Recorded source runs per 100 balls faced; not asserted as fully scorecard-verified batter runs."
+      },
+      {
+        "metric": "boundaries_per_100_balls",
+        "numerator": "flagged_boundaries",
+        "denominator": "balls_faced",
+        "scale": 100.0,
+        "direction": "higher_is_better",
+        "rating_eligible": true,
+        "interpretation": "Source is_four plus is_six flags per 100 balls faced."
+      },
+      {
+        "metric": "dismissals_per_100_balls",
+        "numerator": "attributed_dismissals",
+        "denominator": "balls_faced",
+        "scale": 100.0,
+        "direction": "lower_is_better",
+        "rating_eligible": true,
+        "interpretation": "Dismissals attributed through dismissed_player_id per 100 balls faced; missing IDs are not guessed."
+      }
+    ],
+    "bowling": [
+      {
+        "metric": "bowler_wickets_per_100_candidate_legal_balls",
+        "numerator": "bowler_credited_wickets",
+        "denominator": "candidate_legal_balls",
+        "scale": 100.0,
+        "direction": "higher_is_better",
+        "rating_eligible": true,
+        "interpretation": "Bowler-creditable wickets per 100 candidate legal deliveries."
+      },
+      {
+        "metric": "flagged_boundaries_per_100_candidate_legal_balls",
+        "numerator": "flagged_boundaries_conceded",
+        "denominator": "candidate_legal_balls",
+        "scale": 100.0,
+        "direction": "lower_is_better",
+        "rating_eligible": true,
+        "interpretation": "Boundary flags conceded per 100 candidate legal deliveries."
+      },
+      {
+        "metric": "source_runs_field_per_100_candidate_legal_balls",
+        "numerator": "source_runs_field_sum",
+        "denominator": "candidate_legal_balls",
+        "scale": 100.0,
+        "direction": "lower_is_better",
+        "rating_eligible": false,
+        "interpretation": "Diagnostic only: source runs field per 100 candidate legal deliveries; not total bowler runs conceded."
+      }
+    ]
+  },
+  "bowling_pressure_caveat": "Early-collapse bowling rows describe bowling against a batting side under collapse pressure; they are not automatically classified as pressure on the bowler. Death-over performance is the primary available bowling pressure context.",
+  "source_limitations": {
+    "runs": "The source runs field is used as recorded and is not assumed to be a complete official batting/scorecard total.",
+    "bowling_runs": "Source runs field is incomplete as bowler-charged runs because extras are missing; its baseline metric is diagnostic-only.",
+    "economy_and_dot_balls": "No conventional bowling economy rate or true dot-ball rate is created.",
+    "candidate_legal_balls": "Excludes wide and Overstep rows; retains the single Penalty-coded record in the primary denominator, matching the existing descriptive bowling module."
+  },
+  "batting_context_coverage": {
+    "context_metric_rows": 48156,
+    "rows_with_peer_baseline": 48042,
+    "peer_coverage_pct": 99.76,
+    "unmatched_context_rows": 114,
+    "scope_counts": {
+      "format_season_innings_phase": 30000,
+      "competition_innings_phase": 14763,
+      "format_innings_phase": 3279,
+      "no_supported_peer_group": 114
+    }
+  },
+  "bowling_context_coverage": {
+    "context_metric_rows": 43350,
+    "rows_with_peer_baseline": 43242,
+    "peer_coverage_pct": 99.75,
+    "unmatched_context_rows": 108,
+    "scope_counts": {
+      "format_season_innings_phase": 27051,
+      "competition_innings_phase": 12996,
+      "format_innings_phase": 3195,
+      "no_supported_peer_group": 108
+    }
+  },
+  "batting_players_in_summary": 824,
+  "bowling_players_in_summary": 596,
+  "batting_missing_dismissal_ids": 2,
+  "rankings_created": false,
+  "composite_score_created": false,
+  "baseline_charts": {
+    "batting": {
+      "path": "outputs/charts/batting_peer_baseline_scatter.png",
+      "players_plotted": 144,
+      "status": "created",
+      "role": "batter",
+      "pressure_category": "combined_pressure",
+      "metric": "recorded_runs_per_100_balls"
+    },
+    "bowling": {
+      "path": "outputs/charts/bowling_peer_baseline_scatter.png",
+      "players_plotted": 174,
+      "status": "created",
+      "role": "bowler",
+      "pressure_category": "death_over_context",
+      "metric": "bowler_wickets_per_100_candidate_legal_balls"
+    }
+  }
+}

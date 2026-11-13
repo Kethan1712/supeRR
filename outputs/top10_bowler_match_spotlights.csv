@@ -1,0 +1,11 @@
+rank,player_id,player_name,match_id,match_date,competition,season,innings,opponent,death_candidate_legal_balls,bowler_credited_wickets,flagged_fours_conceded,flagged_sixes_conceded,interpretation
+1,781,Sunil Narine,50366,2026-05-03,IPL 2026,2026,1,Sunrisers Hyderabad,6,2,0,1,Illustrative death-over spell segment; not the sole basis of the ranking.
+2,6643,Hasan Mahmud,20133,2023-03-09,England in Bangladesh T20I Series 2023,2023,1,England,12,2,0,0,Illustrative death-over spell segment; not the sole basis of the ranking.
+3,4722,Rashid Khan,47261,2025-10-31,Afghanistan in Zimbabwe T20I Series 2025,2025,1,Zimbabwe,12,3,0,0,Illustrative death-over spell segment; not the sole basis of the ranking.
+4,2417,Akeal Hosein,37351,2024-11-15,England in West Indies T20I Series 2024,2024,2,England,12,2,0,0,Illustrative death-over spell segment; not the sole basis of the ranking.
+5,2436,Dasun Shanaka,21176,2023-04-02,Sri Lanka in New Zealand T20I Series 2023,2023,2,New Zealand,12,2,1,1,Illustrative death-over spell segment; not the sole basis of the ranking.
+6,5940,Riley Meredith,14137,2022-04-30,IPL 2022,2022,1,Rajasthan Royals,12,2,1,1,Illustrative death-over spell segment; not the sole basis of the ranking.
+7,2636,Adam Zampa,20240,2023-05-14,IPL 2023,2023,1,Royal Challengers Bengaluru,6,2,0,0,Illustrative death-over spell segment; not the sole basis of the ranking.
+8,7312,Nandre Burger,28047,2023-12-14,India in South Africa T20I Series 2023,2023,1,India,12,1,3,1,Illustrative death-over spell segment; not the sole basis of the ranking.
+9,3641,Ben Dwarshuis,41505,2025-07-20,Australia in West Indies T20I Series 2025,2025,1,West Indies,6,3,0,0,Illustrative death-over spell segment; not the sole basis of the ranking.
+10,6161,Rahul Chahar,14104,2022-04-03,IPL 2022,2022,2,Chennai Super Kings,12,3,0,1,Illustrative death-over spell segment; not the sole basis of the ranking.

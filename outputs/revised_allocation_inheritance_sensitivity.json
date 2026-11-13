@@ -1,0 +1,64 @@
+{
+  "inherit_missing_second_innings_revision": false,
+  "pressure_audit": {
+    "pressure_definition": {
+      "early_collapse": "5+ wickets lost by the end of the first 50% of allocated innings; flag starts on the next delivery",
+      "death_phase": "final 25% of allocated innings, rounded to full overs (overs 16-20 for 20 overs)",
+      "additional_innings": "retained but not pressure-classified"
+    },
+    "delivery_records_total": 194014,
+    "regular_innings_delivery_records": 193988,
+    "additional_innings_delivery_records": 26,
+    "early_collapse_pressure_records": 11136,
+    "death_phase_pressure_records": 43566,
+    "overlapping_pressure_records": 3822,
+    "combined_pressure_records_without_double_counting": 50880,
+    "early_collapse_innings": 177,
+    "matches_with_early_collapse": 175,
+    "matches_with_death_phase_pressure": 819,
+    "pressure_category_record_counts": {
+      "ordinary": 143108,
+      "death_over": 39744,
+      "early_collapse": 7314,
+      "early_collapse_and_death_over": 3822
+    },
+    "allocation_source_record_counts": {
+      "standard_20_over_default": 190718,
+      "revised_field_interpreted_as_balls": 3270
+    },
+    "revised_allocation_encoding_check": {
+      "non_null_first_innings_revised_values": 2684,
+      "non_null_second_innings_revised_values": 3795,
+      "all_used_revised_values_are_multiples_of_six": true,
+      "interpretation_note": "Revised fields are interpreted as ball allowances because all non-null supplied values are multiples of six. The source schema does not explicitly document units; inherited second-innings allocations are separately labelled."
+    }
+  },
+  "batting_top10_overlap": 10,
+  "bowling_top10_overlap": 10,
+  "batting_names_unchanged_in_rank_order": true,
+  "bowling_names_unchanged_in_rank_order": true,
+  "alternative_batting_top10": [
+    "Najibullah Zadran",
+    "Sikandar Raza",
+    "Naman Dhir",
+    "Rinku Singh",
+    "Tristan Stubbs",
+    "Nurul Hasan",
+    "Rishabh Pant",
+    "Ramandeep Singh",
+    "Babar Azam",
+    "Glenn Phillips"
+  ],
+  "alternative_bowling_top10": [
+    "Sunil Narine",
+    "Hasan Mahmud",
+    "Rashid Khan",
+    "Akeal Hosein",
+    "Dasun Shanaka",
+    "Riley Meredith",
+    "Adam Zampa",
+    "Nandre Burger",
+    "Ben Dwarshuis",
+    "Rahul Chahar"
+  ]
+}
