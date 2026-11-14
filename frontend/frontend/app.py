@@ -60,8 +60,33 @@ def apply_styles() -> None:
         .pill-neutral {color:#BDC6D5; background:rgba(150,165,185,.08);}
         .small-note {font-size:.82rem; color:#9AA6B8;}
         .gold-rule {height:2px; background:linear-gradient(90deg,#D8B15A,rgba(216,177,90,0)); margin:.4rem 0 1.1rem 0;}
-        div[data-testid="stMetric"] {background:#111827; border:1px solid rgba(216,177,90,.18); padding:12px 14px; border-radius:12px;}
-        div[data-testid="stMetricLabel"] {color:#AAB3C2;}
+        /* Native Streamlit metric cards */
+        div[data-testid="stMetric"] {
+            background: linear-gradient(145deg, #141C2A, #0E1520);
+            border: 1px solid rgba(216,177,90,.24);
+            padding: 16px 18px;
+            border-radius: 14px;
+            box-shadow: 0 6px 18px rgba(0,0,0,.12);
+        }
+
+        /* Metric labels */
+        div[data-testid="stMetricLabel"],
+        div[data-testid="stMetricLabel"] p {
+            color: #AAB3C2 !important;
+            font-size: .85rem !important;
+        }
+
+        /* Metric values */
+        div[data-testid="stMetricValue"],
+        div[data-testid="stMetricValue"] div {
+            color: #F4F5F7 !important;
+            font-weight: 750 !important;
+        }
+
+        /* Metric delta text */
+        div[data-testid="stMetricDelta"] {
+            color: #D8B15A !important;
+        }
         a {color:#E4C477 !important;}
         </style>
         """,
