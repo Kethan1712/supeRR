@@ -308,12 +308,10 @@ def player_profile_page(d: dict) -> None:
     score_col, rank_col, volume_col = st.columns(3)
     score_col.metric("Official primary index", f"{float(row['final_index']):.2f}")
     rank_col.metric("Primary rank", f"#{int(row['rank'])}")
-    volume_label = str(row.get("evidence_volume_label", "Not labelled"))
-    volume_col.metric(
-        "Evidence volume",
-        volume_label,
-        help=volume_label,
-    )
+   volume_label = str(row.get("evidence_volume_label", "Not labelled"))
+
+volume_col.caption("EVIDENCE VOLUME")
+volume_col.write(volume_label)
 
     kpis = st.columns(4)
     kpis[0].metric("Pressure opportunities", format_number(row.get("pressure_opportunities")))
