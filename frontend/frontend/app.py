@@ -61,33 +61,62 @@ def apply_styles() -> None:
         .small-note {font-size:.82rem; color:#9AA6B8;}
         .gold-rule {height:2px; background:linear-gradient(90deg,#D8B15A,rgba(216,177,90,0)); margin:.4rem 0 1.1rem 0;}
         /* Metric card */
-div[data-testid="stMetric"] {
-    background: linear-gradient(145deg, #182335, #101827) !important;
-    border: 1px solid rgba(216,177,90,.30);
-    padding: 16px 18px;
-    border-radius: 14px;
-    box-shadow: 0 6px 18px rgba(0,0,0,.15);
-}
+        div[data-testid="stMetric"] {
+            background: linear-gradient(145deg, #182335, #101827) !important;
+            border: 1px solid rgba(216,177,90,.30);
+            padding: 16px 18px;
+            border-radius: 14px;
+            box-shadow: 0 6px 18px rgba(0,0,0,.15);
+        }
 
-/* Metric label - force readable contrast */
-div[data-testid="stMetricLabel"],
-div[data-testid="stMetricLabel"] *,
-div[data-testid="stMetricLabel"] p {
-    color: #C3CCDA !important;
-}
+        /* Metric label - force readable contrast */
+        div[data-testid="stMetricLabel"],
+        div[data-testid="stMetricLabel"] *,
+        div[data-testid="stMetricLabel"] p {
+            color: #C3CCDA !important;
+        }
 
-/* Metric value */
-div[data-testid="stMetricValue"],
-div[data-testid="stMetricValue"] * {
-    color: #FFFFFF !important;
-    font-weight: 750 !important;
-}
+        /* Metric value */
+        div[data-testid="stMetricValue"],
+        div[data-testid="stMetricValue"] * {
+            color: #FFFFFF !important;
+            font-weight: 750 !important;
+        }
 
-/* Metric help and delta */
-div[data-testid="stMetricDelta"],
-div[data-testid="stMetricDelta"] * {
-    color: #D8B15A !important;
-}
+        /* Metric help and delta */
+        div[data-testid="stMetricDelta"],
+        div[data-testid="stMetricDelta"] * {
+            color: #D8B15A !important;
+        }
+
+        /* Cleaner dataframe appearance */
+        div[data-testid="stDataFrame"] {
+            border: 1px solid rgba(216,177,90,.20);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        /* Consistent section spacing */
+        div[data-testid="stVerticalBlock"] > div {
+            scroll-margin-top: 20px;
+        }
+
+        /* Improve buttons */
+        .stButton > button {
+            border-radius: 9px;
+            font-weight: 600;
+            transition: all .2s ease;
+        }
+
+        /* Improve input fields */
+        .stTextInput input {
+            border-radius: 9px;
+        }
+
+        /* Improve select boxes */
+        .stSelectbox div[data-baseweb="select"] {
+            border-radius: 9px;
+        }
         a {color:#E4C477 !important;}
         </style>
         """,
@@ -265,7 +294,12 @@ def player_profile_page(d: dict) -> None:
     score_col, rank_col, volume_col = st.columns(3)
     score_col.metric("Official primary index", f"{float(row['final_index']):.2f}")
     rank_col.metric("Primary rank", f"#{int(row['rank'])}")
-    volume_col.metric("Evidence volume", str(row.get("evidence_volume_label", "Not labelled")))
+    volume_label = str(row.get("evidence_volume_label", "Not labelled"))
+    volume_col.metric(
+        "Evidence volume",
+        volume_label,
+        help=volume_label,
+    )
 
     kpis = st.columns(4)
     kpis[0].metric("Pressure opportunities", format_number(row.get("pressure_opportunities")))
