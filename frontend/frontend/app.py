@@ -153,6 +153,33 @@ div[data-testid="stMetric"] [data-testid="stMetricValue"] span {
         /* Final dashboard polish: consistent surfaces and readable controls */
         [data-testid="stSidebar"] {
             background: linear-gradient(180deg, rgba(18,26,39,.98), rgba(12,18,28,.98));
+            color: #E7ECF4 !important;
+        }
+        /* Sidebar typography: force readable contrast against the dark sidebar. */
+        [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p,
+        [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] h1,
+        [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] h2,
+        [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] h3,
+        [data-testid="stSidebar"] [data-testid="stWidgetLabel"] *,
+        [data-testid="stSidebar"] [data-testid="stRadio"] label,
+        [data-testid="stSidebar"] [data-testid="stRadio"] label * {
+            color: #DCE3ED !important;
+            opacity: 1 !important;
+            -webkit-text-fill-color: #DCE3ED !important;
+        }
+        [data-testid="stSidebar"] [data-testid="stCaptionContainer"],
+        [data-testid="stSidebar"] [data-testid="stCaptionContainer"] * {
+            color: #AAB5C5 !important;
+            opacity: 1 !important;
+            -webkit-text-fill-color: #AAB5C5 !important;
+        }
+        [data-testid="stSidebar"] .brand-kicker,
+        [data-testid="stSidebar"] .brand-kicker * {
+            color: #D8B15A !important;
+            -webkit-text-fill-color: #D8B15A !important;
+        }
+        [data-testid="stSidebar"] [data-testid="stRadio"] input {
+            accent-color: #D8B15A;
         }
         [data-testid="stSidebar"] [role="radiogroup"] label {
             border-radius: 9px;
