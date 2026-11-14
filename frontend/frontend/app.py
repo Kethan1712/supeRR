@@ -69,12 +69,26 @@ def apply_styles() -> None:
             box-shadow: 0 6px 18px rgba(0,0,0,.15);
         }
 
-        /* Metric label - force readable contrast */
-        div[data-testid="stMetricLabel"],
-        div[data-testid="stMetricLabel"] *,
-        div[data-testid="stMetricLabel"] p {
-            color: #C3CCDA !important;
-        }
+       /* Force readable labels on all native Streamlit metric cards */
+div[data-testid="stMetric"] [data-testid="stMetricLabel"],
+div[data-testid="stMetric"] [data-testid="stMetricLabel"] *,
+div[data-testid="stMetric"] label,
+div[data-testid="stMetric"] label *,
+div[data-testid="stMetric"] p,
+div[data-testid="stMetric"] span {
+    color: #D1D5DB !important;
+    opacity: 1 !important;
+    -webkit-text-fill-color: #D1D5DB !important;
+}
+
+/* Keep metric values bright white */
+div[data-testid="stMetric"] [data-testid="stMetricValue"],
+div[data-testid="stMetric"] [data-testid="stMetricValue"] *,
+div[data-testid="stMetric"] [data-testid="stMetricValue"] span {
+    color: #FFFFFF !important;
+    -webkit-text-fill-color: #FFFFFF !important;
+    font-weight: 750 !important;
+}
 
         /* Metric value */
         div[data-testid="stMetricValue"],
