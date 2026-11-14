@@ -60,33 +60,34 @@ def apply_styles() -> None:
         .pill-neutral {color:#BDC6D5; background:rgba(150,165,185,.08);}
         .small-note {font-size:.82rem; color:#9AA6B8;}
         .gold-rule {height:2px; background:linear-gradient(90deg,#D8B15A,rgba(216,177,90,0)); margin:.4rem 0 1.1rem 0;}
-        /* Native Streamlit metric cards */
-        div[data-testid="stMetric"] {
-            background: linear-gradient(145deg, #141C2A, #0E1520);
-            border: 1px solid rgba(216,177,90,.24);
-            padding: 16px 18px;
-            border-radius: 14px;
-            box-shadow: 0 6px 18px rgba(0,0,0,.12);
-        }
+        /* Metric card */
+div[data-testid="stMetric"] {
+    background: linear-gradient(145deg, #182335, #101827) !important;
+    border: 1px solid rgba(216,177,90,.30);
+    padding: 16px 18px;
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(0,0,0,.15);
+}
 
-        /* Metric labels */
-        div[data-testid="stMetricLabel"],
-        div[data-testid="stMetricLabel"] p {
-            color: #AAB3C2 !important;
-            font-size: .85rem !important;
-        }
+/* Metric label - force readable contrast */
+div[data-testid="stMetricLabel"],
+div[data-testid="stMetricLabel"] *,
+div[data-testid="stMetricLabel"] p {
+    color: #C3CCDA !important;
+}
 
-        /* Metric values */
-        div[data-testid="stMetricValue"],
-        div[data-testid="stMetricValue"] div {
-            color: #F4F5F7 !important;
-            font-weight: 750 !important;
-        }
+/* Metric value */
+div[data-testid="stMetricValue"],
+div[data-testid="stMetricValue"] * {
+    color: #FFFFFF !important;
+    font-weight: 750 !important;
+}
 
-        /* Metric delta text */
-        div[data-testid="stMetricDelta"] {
-            color: #D8B15A !important;
-        }
+/* Metric help and delta */
+div[data-testid="stMetricDelta"],
+div[data-testid="stMetricDelta"] * {
+    color: #D8B15A !important;
+}
         a {color:#E4C477 !important;}
         </style>
         """,
