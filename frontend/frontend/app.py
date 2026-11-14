@@ -150,6 +150,53 @@ div[data-testid="stMetric"] [data-testid="stMetricValue"] span {
         .stSelectbox div[data-baseweb="select"] {
             border-radius: 9px;
         }
+        /* Final dashboard polish: consistent surfaces and readable controls */
+        [data-testid="stSidebar"] {
+            background: linear-gradient(180deg, rgba(18,26,39,.98), rgba(12,18,28,.98));
+        }
+        [data-testid="stSidebar"] [role="radiogroup"] label {
+            border-radius: 9px;
+            padding: .28rem .42rem;
+        }
+        [data-testid="stDataFrame"], [data-testid="stTable"] {
+            background: rgba(16,23,35,.55);
+            border: 1px solid rgba(216,177,90,.20);
+            border-radius: 12px;
+        }
+        [data-testid="stExpander"] {
+            border: 1px solid rgba(216,177,90,.20);
+            border-radius: 12px;
+            background: rgba(16,23,35,.28);
+        }
+        [data-testid="stAlert"] {
+            border-radius: 11px;
+        }
+        .stButton > button {
+            min-height: 2.55rem;
+            border: 1px solid rgba(216,177,90,.35);
+        }
+        .stButton > button[kind="primary"] {
+            background: linear-gradient(135deg, #D8B15A, #B88B37);
+            color: #111722;
+            border: 0;
+        }
+        .stButton > button:hover {
+            border-color: #E4C477;
+            transform: translateY(-1px);
+        }
+        .stTextInput input:focus, .stSelectbox [data-baseweb="select"]:focus-within {
+            border-color: #D8B15A;
+            box-shadow: 0 0 0 1px rgba(216,177,90,.28);
+        }
+        [data-testid="stCaptionContainer"] {
+            color: #AAB3C2;
+        }
+        @media (max-width: 760px) {
+            .block-container {padding-top: 1rem; padding-left: 1rem; padding-right: 1rem;}
+            .hero-title {font-size: 1.8rem;}
+            .metric-value {font-size: 1.55rem;}
+        }
+
         a {color:#E4C477 !important;}
         </style>
         """,
@@ -243,66 +290,98 @@ def leaderboard_page(d: dict, role: str) -> None:
     title = "Top 10 Batters" if is_batter else "Top 10 Bowlers"
     key = "batting_rankings" if is_batter else "bowling_rankings"
     df = fmt_index(d[key].sort_values("rank"))
+
     section_header(title, "Official primary-scope leaderboard · IPL + senior T20I")
     st.caption(
-    "Search players and compare their pressure-performance evidence. "
-    "Select a player to open their detailed profile."
-)
+        "Search players and compare their pressure-performance evidence. "
+        "Select a player to open their detailed profile."
+    )
 
-# Keep the leaderboard focused on the most important comparison metrics.
-table_columns = [
-    "rank",
-    "player_id",
-    "player_name",
-    "performance_component",
-    "consistency_component",
-    "pressure_opportunities",
-    "pressure_matches",
-    "reliability_score",
-]
+    # Keep the original column names so search, sorting and profile navigation work.
+    table_columns = [
+        "rank",
+        "player_id",
+        "player_name",
+        "performance_component",
+        "consistency_component",
+        "pressure_opportunities",
+        "pressure_matches",
+        "reliability_score",
+    ]
+    display_df = df[table_columns].copy()
 
-display_df = df[table_columns].copy()
+    filtered, clicked_row = searchable_table(
+        display_df,
+        height=430,
+        key_prefix=role,
+    )
 
-display_df = display_df.rename(columns={
-    "rank": "Rank",
-    "player_id": "Player ID",
-    "player_name": "Player",
-    "performance_component": "Performance",
-    "consistency_component": "Consistency",
-    "pressure_opportunities": "Pressure opportunities",
-    "pressure_matches": "Pressure matches",
-    "reliability_score": "Reliability index",
-})
-
-filtered, clicked_row = searchable_table(
-    display_df,
-    height=430,
-    key_prefix=role,
-)
     if clicked_row is not None:
-        st.success(f"Selected: {clicked_row['player_name']} · #{int(clicked_row['rank'])}")
-        if st.button("Open selected player profile", key=f"open_selected_{role}", type="primary"):
-            go_to("04 · Player Intelligence", int(clicked_row["player_id"]))
+        st.success(
+            f"Selected: {clicked_row['player_name']} · "
+            f"#{int(clicked_row['rank'])}"
+        )
+        if st.button(
+            "Open selected player profile",
+            key=f"open_selected_{role}",
+            type="primary",
+        ):
+            go_to(
+                "04 · Player Intelligence",
+                int(clicked_row["player_id"]),
+            )
 
+    chart_df = df.sort_values("reliability_score", ascending=True)
     chart = px.bar(
-        df.sort_values("reliability_score", ascending=True),
+        chart_df,
         x="reliability_score",
         y="player_name",
         orientation="h",
-        text=df.sort_values("reliability_score", ascending=True)["reliability_score"].map(lambda x: f"{x:.2f}"),
-        labels={"reliability_score": "Reliability index (0–100)", "player_name": "Player"},
+        text=chart_df["reliability_score"].map(lambda x: f"{x:.2f}"),
+        labels={
+            "reliability_score": "Reliability index (0–100)",
+            "player_name": "Player",
+        },
         title=f"{title} · index comparison",
     )
-    chart.update_traces(marker_color="#D8B15A", textposition="outside", cliponaxis=False)
-    chart.update_layout(height=420, margin=dict(l=15, r=55, t=55, b=35), paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
+    chart.update_traces(
+        marker_color="#D8B15A",
+        textposition="outside",
+        cliponaxis=False,
+        textfont=dict(color="#E8ECF2"),
+    )
+    chart.update_layout(
+        height=420,
+        margin=dict(l=15, r=55, t=55, b=35),
+        paper_bgcolor="rgba(0,0,0,0)",
+        plot_bgcolor="rgba(0,0,0,0)",
+        font=dict(color="#D8DEE9"),
+        title_font=dict(color="#F4F5F7", size=17),
+        xaxis=dict(gridcolor="rgba(180,190,205,.12)", zerolinecolor="rgba(180,190,205,.18)"),
+        yaxis=dict(gridcolor="rgba(0,0,0,0)"),
+    )
     st.plotly_chart(chart, use_container_width=True)
 
     options = df[["player_id", "player_name", "rank"]].copy()
-    options["label"] = options.apply(lambda x: f"#{int(x['rank'])} · {x['player_name']}", axis=1)
-    selected_label = st.selectbox("Open player intelligence", options["label"].tolist(), key=f"profile_select_{role}")
-    selected_id = int(options.loc[options["label"] == selected_label, "player_id"].iloc[0])
-    if st.button("Open detailed player profile", key=f"open_profile_{role}", type="primary"):
+    options["label"] = options.apply(
+        lambda x: f"#{int(x['rank'])} · {x['player_name']}",
+        axis=1,
+    )
+    selected_label = st.selectbox(
+        "Open player intelligence",
+        options["label"].tolist(),
+        key=f"profile_select_{role}",
+    )
+    selected_id = int(
+        options.loc[options["label"] == selected_label, "player_id"].iloc[0]
+    )
+    if st.button(
+        "Open detailed player profile",
+        key=f"open_profile_{role}",
+        type="primary",
+    ):
         go_to("04 · Player Intelligence", selected_id)
+
     if len(filtered) == 0:
         st.warning("No players match that search.")
 
