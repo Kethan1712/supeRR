@@ -310,8 +310,16 @@ def player_profile_page(d: dict) -> None:
     rank_col.metric("Primary rank", f"#{int(row['rank'])}")
     volume_label = str(row.get("evidence_volume_label", "Not labelled"))
 
-    volume_col.caption("EVIDENCE VOLUME")
-    volume_col.write(volume_label)
+    with volume_col:
+        st.markdown(
+            f"""
+            <div class="metric-card evidence-volume-card">
+            <div class="metric-label">Evidence volume</div>
+            <div class="metric-value">{volume_label}</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
     kpis = st.columns(4)
     kpis[0].metric("Pressure opportunities", format_number(row.get("pressure_opportunities")))
