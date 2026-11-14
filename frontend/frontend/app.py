@@ -244,8 +244,41 @@ def leaderboard_page(d: dict, role: str) -> None:
     key = "batting_rankings" if is_batter else "bowling_rankings"
     df = fmt_index(d[key].sort_values("rank"))
     section_header(title, "Official primary-scope leaderboard · IPL + senior T20I")
-    st.caption("Click column headers to sort. Use the search field to filter names. Select a player below to open their evidence profile.")
-    filtered, clicked_row = searchable_table(df, height=430, key_prefix=role)
+    st.caption(
+    "Search players and compare their pressure-performance evidence. "
+    "Select a player to open their detailed profile."
+)
+
+# Keep the leaderboard focused on the most important comparison metrics.
+table_columns = [
+    "rank",
+    "player_id",
+    "player_name",
+    "performance_component",
+    "consistency_component",
+    "pressure_opportunities",
+    "pressure_matches",
+    "reliability_score",
+]
+
+display_df = df[table_columns].copy()
+
+display_df = display_df.rename(columns={
+    "rank": "Rank",
+    "player_id": "Player ID",
+    "player_name": "Player",
+    "performance_component": "Performance",
+    "consistency_component": "Consistency",
+    "pressure_opportunities": "Pressure opportunities",
+    "pressure_matches": "Pressure matches",
+    "reliability_score": "Reliability index",
+})
+
+filtered, clicked_row = searchable_table(
+    display_df,
+    height=430,
+    key_prefix=role,
+)
     if clicked_row is not None:
         st.success(f"Selected: {clicked_row['player_name']} · #{int(clicked_row['rank'])}")
         if st.button("Open selected player profile", key=f"open_selected_{role}", type="primary"):
