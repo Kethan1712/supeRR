@@ -96,6 +96,25 @@ div[data-testid="stMetric"] [data-testid="stMetricValue"] span {
             color: #FFFFFF !important;
             font-weight: 750 !important;
         }
+        /* Keep Evidence Volume aligned with the other top metric cards */
+.evidence-volume-card {
+    height: 134px;
+    min-height: 134px;
+    box-sizing: border-box;
+    padding: 14px 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Fit the full evidence description inside the fixed-height card */
+.evidence-volume-card .metric-value {
+    font-size: 1.15rem;
+    line-height: 1.3;
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-break: normal;
+}
 
         /* Metric help and delta */
         div[data-testid="stMetricDelta"],
