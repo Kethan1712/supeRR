@@ -86,16 +86,16 @@ def searchable_table(
                 "Consistency", format="%.2f"
             ),
             "pressure_opportunities": st.column_config.NumberColumn(
-                "Pressure opportunities", format="%,.0f"
+                "Pressure opportunities",format="%.0f",
             ),
             "pressure_matches": st.column_config.NumberColumn(
-                "Pressure matches", format="%,.0f"
+                "Pressure matches", format="%.0f",
             ),
-            "ordinary_opportunities": st.column_config.NumberColumn(
-                "Ordinary opportunities", format="%,.0f"
+        "ordinary_opportunities": st.column_config.NumberColumn(
+                "Ordinary opportunities",format="%.0f",
             ),
-            "ordinary_matches": st.column_config.NumberColumn(
-                "Ordinary matches", format="%,.0f"
+        "ordinary_matches": st.column_config.NumberColumn(
+            "Ordinary matches", format="%.0f",
             ),
             "pressure_baseline_coverage_pct": st.column_config.NumberColumn(
                 "Pressure baseline coverage", format="%.1f%%"
